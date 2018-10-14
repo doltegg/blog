@@ -367,6 +367,13 @@ mathjax:
   per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
+kramdown:
+  footnote_backlink:   '&#x21a9;&#xfe0e;'
+  math_engine:         mathjax
+  math_engine_opts:
+    preview:           true
+    preview_as_code:   true
+    
 # Han Support docs: https://hanzi.pro/
 han: false
 
