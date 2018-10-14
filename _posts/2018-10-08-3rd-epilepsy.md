@@ -1,6 +1,7 @@
-﻿---
+---
 layout: post
 title: 第三次癲癇日記
+date: 2018-10-08 19:05:11 +0000
 tags:
   - 生病
 category: 生病
