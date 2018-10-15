@@ -392,10 +392,10 @@ baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
 disqus:
   enable: true
   shortname: egg
-  count: true
+  count: false
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: false
+  hide: True
 
 # Hypercomments
 #hypercomments_id:
