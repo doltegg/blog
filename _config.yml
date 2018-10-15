@@ -472,11 +472,11 @@ duoshuo_info:
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
-  enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
+  enable: true
+  app_id: 2274140046139002       #<app_id>
+  fb_admin: doltegg@hotmai.com     #<user_id>
+  like_button: true #true
+  webmaster: true    #true
 
 # Facebook comments plugin
 # This plugin depends on Facebook SDK.
