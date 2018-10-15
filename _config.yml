@@ -237,6 +237,9 @@ social_icons:
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 avatar: /assets/images/author.jpg
+rounded: true
+opacity: 1
+rotated: true
 
 
 # Table Of Contents in the Sidebar
