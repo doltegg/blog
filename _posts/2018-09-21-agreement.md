@@ -22,7 +22,7 @@ tags: [同事]
 
 ![第一次](/blog/assets/images/2018/agree1.jpg)
 
-可是我遲至 8/20 才發現，於是發了一封主旨為 “I got the easter egg from you.” 的信跟她說 
+可是我遲至 8/20 才發現，於是發了一封主旨為 “I got the easter egg from you.” 的信跟她說：
 
 >詠萱<br />
 ><br />
