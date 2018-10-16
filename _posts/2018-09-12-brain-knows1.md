@@ -3,7 +3,7 @@ layout: post
 title: 大腦知天命
 date: 2018-09-12
 category: 謅
-tags: [腦袋瓜]
+tags: [腦袋瓜, 看護]
 ---
 
 「我」通常都是指我的大腦，
