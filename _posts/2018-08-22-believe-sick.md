@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 我相信我有病
 date: 2018-09-12
