@@ -20,7 +20,7 @@ tags: [同事]
 #### 第一次
 她的留言是 8/16，短短幾個字，「蛋哥，我來過<i class="fas fa-smile"></i>」。
 
-![第一次]({{ site.url }}blog/assets/images/2018/agree1.jpg "First time")
+![第一次]({{ site.url }}/blog/assets/images/2018/agree1.jpg "First time")
 
 可是我遲至 8/20 才發現，於是發了一封主旨為 “I got the easter egg from you.” 的信跟她說 
 
@@ -44,7 +44,7 @@ tags: [同事]
 #### 第二次
 她的留言是 8/24 (五)，我學到了敏銳，星期一一早我就發現了。「詠萱天地」四個字是我的字跡，是我特地為她留下的一片天地，她也信守我們相互的誓言，留下「詠萱一遊」外帶一朵花及笑臉。
 
-![第二次]({{ site.url }}blog/assets/images/2018/agree2.jpg "Second time")
+![第二次]({{ site.url }}/blog/assets/images/2018/agree2.jpg "Second time")
 
 我發信跟她說：「我發現你又偷偷來過，只留下一片花朵！」
 
@@ -61,7 +61,7 @@ tags: [同事]
 #### 第三次
 就是昨天，她們地下社團團練慢跑的日子，我不太明瞭她挺著大肚子怎麼跟人家跑，但她就是會去湊熱鬧。 我猜測是在她們做完緩和操後 , 回到她舊時辦公的地點，我的位子上。把留言大喇喇地放在我的鍵盤旁，讓我在一早進辦公室時就發現。
 
-![第三次]({{ site.url }}blog/assets/images/2018/agree5.JPG "Third time")
+![第三次]({{ site.url }}/blog/assets/images/2018/agree5.JPG "Third time")
 
 在記錄這些的同時，也讓我發現今天是個特別的日子—921。讓我們用彼此不需要言語的情誼一起為 19 年前所有 921 受災戶致意。
 
