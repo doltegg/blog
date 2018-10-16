@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 大腦知天命
 date: 2018-09-12
