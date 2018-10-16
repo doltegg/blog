@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Lebensunwertes Leben
-tags:
-  - 生病
+tags: [癲癇, 書]
 category: 生病
 ---
 
