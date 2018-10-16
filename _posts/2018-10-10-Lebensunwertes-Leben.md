@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: Lebensunwertes Leben
 category: [說, 記]
-tags: [腦袋瓜, 癲癇, 書]
+tags: [腦袋瓜, 癲癇, 書, 看護]
 ---
 
 維基百科：
