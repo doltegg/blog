@@ -19,7 +19,8 @@ tags: [同事]
 
 第一次
 她的留言是 8/16，短短幾個字，「蛋哥，我來過 :)」。
-![第一次](/assets/images/2018/agree1.jpg "First time")
+![第一次]
+(/assets/images/2018/agree1.jpg "First time")
 
 可是我遲至 8/20 才發現，於是發了一封主旨為 “I got the easter egg from you.” 的信跟她說 
 
