@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我相信我有病
-date: 2018-09-12
+date: 2018-08-22
 category: 說
 tags: [書, 數, 腦袋瓜]
 ---
