@@ -109,13 +109,13 @@ Google 過程中，
 濫用到對於電影演職員表後的「隱藏結尾」全都混為一談，
 應該還是要分清楚才是。
 
-在《［終於確定］（https://doltegg.github.io/blog/2018/07/02/1st-epilepsy/）》中有一則留言：
+在《[終於確定](https://doltegg.github.io/blog/2018/07/02/1st-epilepsy/)》中有一則留言：
 >等看護司空見慣，
 >說不定將來某一天有個畫面 ─ 她叼根菸翹著二郎腿對著你或路上甲乙：
 >「別理他！讓他自個抖，抖夠了他自然會起來。」不以為意地向天呼一口長長的煙。
 
 另外，
-《［數 6 (外傳)］（https://doltegg.github.io/blog/2018/08/07/num-6_2/）》是《［數 6_者也］（https://doltegg.github.io/blog/2018/08/07/num-6/）》的隱藏結尾。
+《[數 6 (外傳)](https://doltegg.github.io/blog/2018/08/07/num-6_2/)》是《[數 6_者也](https://doltegg.github.io/blog/2018/08/07/num-6/)》的隱藏結尾。
 
 沒關係，
 看的懂就看；
