@@ -2,7 +2,7 @@
 layout: post
 title: 洗白程式
 date: 2018-07-23
-category: 詭
+category: 謅
 tags: [意有所指]
 ---
 
