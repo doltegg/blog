@@ -2,9 +2,9 @@
 layout: post
 title: 癲癇
 date: 2018-08-15
-
+author: egg
 category: 詭
-tags: [同事, 數, 腦袋瓜]
+tags: [同事, 腦袋瓜]
 ---
 
 我有個女前同事怪怪的，
