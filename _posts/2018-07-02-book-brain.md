@@ -6,7 +6,7 @@ category: 說
 tags: [腦袋瓜, 書]
 ---
 
-![困在大腦裡的人](/blog/assets/images/2018/bran.jpg)
+![困在大腦裡的人](/blog/assets/images/2018/brain.jpg)
 
 很前面的部分，
 作者對一個被判定為植物人的病人做一個實驗，
