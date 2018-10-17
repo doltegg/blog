@@ -5,6 +5,7 @@ date: 2018-09-21
 category: 說
 tags: [同事]
 ---
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 
 她結婚之後，新郎不是我；隨即而來的是調部門，到另一個職場，該是我們整理心情各分東西的時刻。她走前，留下一段話感人的離別話語，沒有提我，只說要謝天。所以她為了謝天，沒有特別跟我道別，走了！
 
