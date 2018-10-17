@@ -65,6 +65,9 @@ tags: [看護, python]
 	import antigravity
 
 結果出現的是四格漫畫，
+
+![python, hello, flying?](/blog/assets/images/2018/pythonfly.png "How are you flying?")
+
 教人如何飛翔的漫畫，
 我還是沒有看到說好的「蛋」。
 
