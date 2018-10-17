@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: 癲癇
 date: 2018-08-15
+
 category: 詭
 tags: [同事, 數, 腦袋瓜]
 ---
