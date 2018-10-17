@@ -3,7 +3,7 @@ layout: post
 title: 彩蛋
 date: 2018-08-12
 category: 說
-tags: [看護, 電影]
+tags: [看護, python]
 ---
 
 今天看護陪一對郎有情妹無意的同事去高雄幫那個妹療傷，
@@ -31,6 +31,29 @@ tags: [看護, 電影]
 	import this
 
 它真就會跳出一長串英文字母的排列，
+
+	The Zen of Python, by Tim Peters
+	
+	Beautiful is better than ugly.
+	Explicit is better than implicit.
+	Simple is better than complex.
+	Complex is better than complicated.
+	Flat is better than nested.
+	Sparse is better than dense.
+	Readability counts.
+	Special cases aren't special enough to break the rules.
+	Although practicality beats purity.
+	Errors should never pass silently.
+	Unless explicitly silenced.
+	In the face of ambiguity, refuse the temptation to guess.
+	There should be one-- and preferably only one --obvious way to do it.
+	Although that way may not be obvious at first unless you're Dutch.
+	Now is better than never.
+	Although never is often better than *right* now.
+	If the implementation is hard to explain, it's a bad idea.
+	If the implementation is easy to explain, it may be a good idea.
+	Namespaces are one honking great idea -- let's do more of those!
+	
 總計為 19 句的 Python 新詩，
 為的是讚揚 py 派的思想哲學及理念。
 但我的疑問是： 蛋呢？
@@ -57,9 +80,9 @@ tags: [看護, 電影]
 但尋找「彩蛋」這種事情見仁見智，
 知道了就會讓整部電影看起來很有樂趣，
 不知道的似乎也無傷大雅不影響劇情發展。
-就像我找到了 ``this'' 彩蛋，
+就像我找到了 "this" 彩蛋，
 我還是不知道那些英文字母的排列意思；
-知道了 ``antigravity'' 會飛，
+知道了 "antigravity" 會飛，
 我還是優先選擇 VBA 而非 xlwings。
 
 昨天我整理以前文章的手稿，
