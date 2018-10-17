@@ -115,7 +115,7 @@ Google 過程中，
 >「別理他！讓他自個抖，抖夠了他自然會起來。」不以為意地向天呼一口長長的煙。
 
 另外，
-《［數 6 (外傳)］（https://doltegg.github.io/blog/2018/08/07/num-6_2/）》是《［數 6_者也］》（https://doltegg.github.io/blog/2018/08/07/num-6/）的隱藏結尾。
+《［數 6 (外傳)］（https://doltegg.github.io/blog/2018/08/07/num-6_2/）》是《［數 6_者也］（https://doltegg.github.io/blog/2018/08/07/num-6/）》的隱藏結尾。
 
 沒關係，
 看的懂就看；
