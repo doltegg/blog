@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 終於確定
-date: 2018-07-02
+date: 2018-07-02 20:05:11 +0000
 category: 誌
 tags: [腦袋瓜, 癲癇, 看護]
 ---
