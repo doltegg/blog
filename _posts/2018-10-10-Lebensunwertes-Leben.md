@@ -54,3 +54,10 @@ tags: [腦袋瓜, 癲癇, 書, 看護]
 > p.161 該法要求「任何有遺傳疾病者都可手術絕育。」首先列入「遺傳疾病」名單的包括心智障礙、精神分裂、**癲癇**、憂鬱、失明、失聰和嚴重畸形。法令接著明定：「一旦法院決定絕育，手術就必須施行，即使違反當事人的意願......。如果其他方法皆不奏效，可以直接採行暴力手段。」
 
 > p.485 有些小鼠的基因經改變後，發展出阿茲海默症、**癲癇**或早老症。
+
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
