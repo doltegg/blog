@@ -477,7 +477,7 @@ duoshuo_info:
 facebook_sdk:
   enable: true
   app_id: 2274140046139002       #<app_id>
-  fb_admin: doltegg@hotmai.com     #<user_id>
+  fb_admin: doltegg@hotmail.com     #<user_id>
   like_button: true #true
   webmaster: true    #true
 
