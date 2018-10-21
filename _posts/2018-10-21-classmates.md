@@ -6,7 +6,7 @@ category: [謅]
 tags: [同學]
 ---
  
-![草山夜未眠](/blog/asset/images/2018/night.jpg "草山夜未眠")
+![草山夜未眠](/blog/assets/images/2018/night.jpg "草山夜未眠")
 
 
 有位遠嫁到泰國高中同學最近返台，我們**幾個班**的高中同學約好見個面，聚一聚聊聊各自近況。
