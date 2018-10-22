@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 三思而行
-date: 2018-10-22 08:21:11 +0000
+date: 2018-10-22
 category: 謅
 tags: [意有所指]
 ---
