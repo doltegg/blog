@@ -6,7 +6,7 @@ category: [謅]
 tags: [同學]
 ---
  
-![草山夜未眠](/blog/assets/images/2018/night.jpg "2018/10/20 草山夜未眠")
+<p align=center>![草山夜未眠](/blog/assets/images/2018/night.jpg "2018/10/20 草山夜未眠")</p>
 
 
 有一位高中同學遠嫁到泰國，因為最近返台，我們**幾個班**的高中同學約好見個面，聚一聚聊聊各自近況。
