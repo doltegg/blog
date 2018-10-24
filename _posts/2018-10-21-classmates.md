@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: 他和他弟差 12 歲
 date: 2018-10-21
 category: [謅]
