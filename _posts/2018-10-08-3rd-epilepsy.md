@@ -2,7 +2,7 @@
 layout: post
 title: 第三次癲癇日記
 date: 2018-10-08 19:05:11 +0000
-category: 記
+category: 誌
 tags: [腦袋瓜, 癲癇, 看護]
 ---
 8 月 3 日下午是公司辦的 python 第 6 次課程，
