@@ -2,7 +2,7 @@
 layout: post
 title: 9/28 回診記
 date: 2018-10-08 19:39:11 +0000
-category: 記
+category: 誌
 tags: [腦袋瓜, 看病, 看護]
 ---
 
