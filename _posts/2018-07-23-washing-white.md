@@ -3,7 +3,7 @@ layout: post
 title: 洗白程式
 date: 2018-07-23
 category: 謅
-tags: [意有所指]
+tags: [意有所指, 金融商品]
 ---
 
 假設某檔基金本金 10 萬元，
