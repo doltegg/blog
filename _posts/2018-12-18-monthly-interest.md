@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 月配息
 date: 2018-12-18
