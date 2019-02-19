@@ -7,7 +7,7 @@ tags: [印度行]
 ---
 
 
-![](/blog/assets/images/2010/egg1.jpg "")
+![1](/blog/assets/images/2010/egg1.jpg)
 
 
 2010/8/29 我們一行人仍為前 2 天的舟車勞累，
@@ -27,7 +27,7 @@ tags: [印度行]
 把我們一行人迎到牧師家。
 
 
-![](/blog/assets/images/2010/egg2.jpg "")
+![2](/blog/assets/images/2010/egg2.jpg)
 
 
 
@@ -41,7 +41,7 @@ tags: [印度行]
 硬是讓我們在村口下車，
 讓我著實地感受到村民熱情的驚嚇。
 
-![](/blog/assets/images/2010/egg3.jpg "")
+![3](/blog/assets/images/2010/egg3.jpg)
 
 這個村就是我們服務的村莊，
 人是達利人(Dalits)。
@@ -92,7 +92,7 @@ tags: [印度行]
 因此，我成了第一個也是唯一一個有泰盧固語名字的台灣人。
 
 
-![](/blog/assets/images/2010/egg4.jpg "")
+![4](/blog/assets/images/2010/egg4.jpg)
 
 
 
