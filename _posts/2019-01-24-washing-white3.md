@@ -3,7 +3,7 @@ layout: post
 title: 洗白程式 3.0
 date: 2019-01-24 17:42:11 +0000
 category: 謅
-tags: [意有所指]
+tags: [意有所指, 金融商品]
 ---
 
 
