@@ -11,11 +11,16 @@ type: works
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration/work/typesetting.pdf">排版</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
-### Excel
+### 放款投影片範例
 
-- <a target="_blank" href="">公式</a>
-- <a target="_blank" href="">陣列</a>
+- <a target="_blank" href="https://doltegg.github.io/egg/demonstration/work/loan.pdf">範例 1</a>
+- <a target="_blank" href="https://doltegg.github.io/egg/demonstration/work/loan2.pdf">範例 2</a>
+- <a target="_blank" href="https://doltegg.github.io/egg/demonstration/work/loan3.pdf">範例 3</a>
 
+### 投影片教學
+
+- <a target="_blank" href="">PowerPoint</a>
+- <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
 
 Building...
