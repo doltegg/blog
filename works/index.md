@@ -20,8 +20,9 @@ type: works
 
 ### 投影片教學
 
-- <a target="_blank" href="">PowerPoint</a>
+- <a target="_blank" href="ppt.pdf">PowerPoint</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
+### Excel 教案
 
 <!--Building...-->
