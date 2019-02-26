@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 小品
 type: works
 ---
 
