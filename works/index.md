@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 小品
+title: 小品作集
 type: works
 ---
 
