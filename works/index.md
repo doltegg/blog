@@ -23,6 +23,6 @@ type: works
 - <a target="_blank" href="ppt.pdf">PowerPoint</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
-### Excel 教案
+### Excel 教科書
 
 <!--Building...-->
