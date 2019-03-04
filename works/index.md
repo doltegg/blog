@@ -25,4 +25,13 @@ type: works
 
 #### Excel 秘笈
 
+#### 其它
+
+- <a target="_blank" href="article/robo">意義 (智能理財)</a>
+- <a target="_blank" href="">洗白程式 (智能理財)</a>
+- <a target="_blank" href="">第一封檢舉信</a>
+- <a target="_blank" href="">第二封檢舉信</a>
+- <a target="_blank" href="">第三封檢舉信</a>
+
+
 <!--Building...-->
