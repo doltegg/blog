@@ -36,6 +36,6 @@ type: works
 - <a target="_blank" href="">第一封檢舉信</a>
 - <a target="_blank" href="">第二封檢舉信</a>
 - <a target="_blank" href="">第三封檢舉信</a>
-
+- <a target="_blank" href="">猶之與人也， 出納之吝， 謂之有司</a>
 
 <!--Building...-->
