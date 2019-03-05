@@ -20,7 +20,7 @@ type: works
 
 #### 投影片教學
 
-- <a target="_blank" href="ppt.pdf">PowerPoint</a>
+- <a target="_blank" href="article/ppt.pdf">PowerPoint</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
 #### 前所未見的 Excel 寶典
@@ -32,7 +32,7 @@ type: works
 #### 其它
 
 - <a target="_blank" href="article/robo.pdf">意義 (智能理財)</a>
-- <a target="_blank" href="">洗白程式 (智能理財)</a>
+- <a target="_blank" href="article/washing.pdf">洗白程式 (智能理財)</a>
 - <a target="_blank" href="">第一封檢舉信</a>
 - <a target="_blank" href="">第二封檢舉信</a>
 - <a target="_blank" href="">第三封檢舉信</a>
