@@ -32,7 +32,7 @@ type: works
 #### 其它
 
 - <a target="_blank" href="article/robo.pdf">意義 (智能理財)</a>
-- <a target="_blank" href="article/washing.pdf">洗白程式 (智能理財)</a>
+- <a target="_blank" href="article/robo2.pdf">洗白程式 (智能理財)</a>
 - <a target="_blank" href="">第一封檢舉信</a>
 - <a target="_blank" href="">第二封檢舉信</a>
 - <a target="_blank" href="">第三封檢舉信</a>
