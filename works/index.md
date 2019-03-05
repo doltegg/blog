@@ -23,11 +23,15 @@ type: works
 - <a target="_blank" href="ppt.pdf">PowerPoint</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
-#### Excel 秘笈
+#### 前所未見的 Excel 寶典
+
+- <a target="_blank" href="article/excel_fn.pdf">點運算</a>
+- <a target="_blank" href="article/excel_arr.pdf">陣列運算</a>
+- <a target="_blank" href="article/excel_vba.pdf">VBA 運算</a>
 
 #### 其它
 
-- <a target="_blank" href="article/robo">意義 (智能理財)</a>
+- <a target="_blank" href="article/robo.pdf">意義 (智能理財)</a>
 - <a target="_blank" href="">洗白程式 (智能理財)</a>
 - <a target="_blank" href="">第一封檢舉信</a>
 - <a target="_blank" href="">第二封檢舉信</a>
