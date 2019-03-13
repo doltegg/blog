@@ -5,6 +5,8 @@ category: [說, 誌]
 tags: [腦袋瓜, 癲癇, 書, 看護]
 ---
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
 維基百科：
 ><i class="fas fa-quote-left fa-3x fa-pull-left"></i>
 >「不值得活的生命」(德語 "Lebensunwertes Leben") 是一納粹德國政府使用的詞彙，指稱那些沒有生命權的人種，這些人種會遭國家處決或強制安樂死。「不值得活的生命」同時包含了患有嚴重疾病、不治之疾或體格與種族政策規定相去過遠的民眾。這項概念是納粹主義意識形態的重要構成元素之一，最終更導致了猶太人大屠殺。
