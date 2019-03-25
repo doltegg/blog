@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: due process
 date: 2019-03-22 23:30:11 +0000
