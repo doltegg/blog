@@ -29,7 +29,7 @@ type: works
 - <a target="_blank" href="article/excel_arr.pdf">陣列運算</a>
 - <a target="_blank" href="article/excel_vba.pdf">VBA 運算</a>
 
-#### 其它
+#### 意有所指
 
 - <a target="_blank" href="article/robo.pdf">意義 (智能理財)</a>
 - <a target="_blank" href="article/robo2.pdf">洗白程式 (智能理財)</a>
