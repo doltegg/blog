@@ -6,6 +6,7 @@ category: 訣
 tags: [書, 佳句]
 ---
 
+![1](https://doltegg.github.io/egg/others/egg/obriens.jpg)
 
 - 一股感恩之情突然從心底而生，
 他沒做好準備，
