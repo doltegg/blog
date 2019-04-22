@@ -5,6 +5,7 @@ date: 2018-05-30
 category: 訣
 tags: [書, 佳句]
 ---
+![1](/blog/assets/images/2018/miss.jpg)
 
 - 我認為你的健忘和更年期無關， (p.53)
 
