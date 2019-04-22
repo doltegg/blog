@@ -6,7 +6,7 @@ category: 訣
 tags: [書, 佳句]
 ---
 
-![1](/blog/assets/images/2019/.jpg)
+![1](/blog/assets/images/2019/brand.jpg)
 
 - 危機百科說，
 故事行銷就是透過說故事滿足雙方的慾望與需求，
