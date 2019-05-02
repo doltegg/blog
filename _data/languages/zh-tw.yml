@@ -8,6 +8,7 @@ title:
   tags: 標籤
   about: 關於
   works: 小品
+  book: 閱讀
 
 author: 博主
 
@@ -22,6 +23,7 @@ menu:
   schedule: 日程表
   sitemap: 站點地圖
   commonweal: 公益404
+  book: 閱讀
 
 sidebar:
   overview: 本站概覽
