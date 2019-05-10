@@ -10,7 +10,7 @@ tags: [排版, Word, Excel, PowerPoint]
 
 - 中式左引號：「、『，
 - 中式右引號： 」、』，
-- 英式左引號： <span style="color:red;">"</sapn>，
+- 英式左引號：<span style="color:red;"> "</span>，
 - 英式右引號：<span style="color:red;">"</span>。
 
 如果大家對以上定義沒有意見，那就進入今天的主題。
