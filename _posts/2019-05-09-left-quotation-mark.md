@@ -58,11 +58,11 @@ tags: [排版, Word, Excel, PowerPoint]
 - 引號的左邊有字，預設的引號會是「右引號」。
 
 示範：
-1. <pre>"他媽的"</pre>：<span style="color:red;">"他媽的"</span><pre>"他媽的"</pre>
-2. <span style="color:red;">他"媽"的</span>
-3. <span style="color:red;">他 "媽"的</span>
-4. <span style="color:red;">他 "媽" 的</span>
-5. <span style="color:red;">他 "媽 " 的</span>
+1. <pre>"他媽的"</pre><span style="color:red;">"他媽的"
+2. <pre>他"媽"的</pre><span style="color:red;">他"媽"的</span>
+3. <pre>他 "媽"的</pre><span style="color:red;">他 "媽"的</span>
+4. <pre>他 "媽" 的</pre><span style="color:red;">他 "媽" 的</span>
+5. <pre>他 "媽 " 的</pre><span style="color:red;">他 "媽 " 的</span>
 
 我個人建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
 
