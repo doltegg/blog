@@ -3,7 +3,7 @@ layout: post
 title: 左引號
 date: 2019-05-09
 category: 評
-tags: [排版, Word, Excel, PowerPoint]
+tags: [排版]
 ---
 
 相信很多人都知道，引號有分「左引號」與「右引號」，就像人有分「男人」和「女人」一樣。左、右引號先天就長得不一樣，就與男、女人天生結構就不同的意思一樣。
@@ -27,7 +27,7 @@ tags: [排版, Word, Excel, PowerPoint]
 
 ![](/blog/assets/images/2019/quotation1.jpg "國泰金融電子月刊 4 月號")
 
-「國泰秉持<span style="color:red;">" What if we could"</span> 為不...」，看出錯誤了嗎？
+「國泰秉持<span style="color:red; font-family:Arial;">" What if we could"</span> 為不...」，看出錯誤了嗎？
 
 我常在想，為什麼會出這種錯，而且到處都是呢！若先排除一部份可能的疏忽，其他的原因不外乎二種。一是「不懂」，一是「不會」。
 
@@ -39,7 +39,7 @@ tags: [排版, Word, Excel, PowerPoint]
   很悲哀，不會打出左引號的人問一個不懂得左右引號差別的人，兩個人究竟會擦出什麼火花，這正是現在到處是錯誤範例存在的原因。
 
 
-#### 天才變形
+#### 自以為是的變形
 
 我看過一個有趣的例子：
 
@@ -48,10 +48,10 @@ tags: [排版, Word, Excel, PowerPoint]
 該範例的錯誤：
 1. 先用標楷體寫了<span style="color:red; font-family:標楷體;">" 營業"</span>：左引號錯誤；
 1. 接著轉換字體用<span style="color:red; font-family:新細明體;">細明體</span>：我不知道為何要換字體，可能是從別的檔案貼過來忘了改字體吧；
-1. <span style="color:red; font-family:細明體;">&quot;交易或對價關係</span><span style="color:red; font-family:Calibri;">"</span>的左引號與右引號字體不同：可能原檔的筆者發現左邊的引號還是「右引號」的錯誤模樣，又不知道怎麼變為左引號，所以把該字體改為左右引號都同款式的字體，但卻忘了一併修改右引號。(盡量別用這種看似天才的方法！)
+1. <span style="color:red; font-family:細明體;">&quot;交易或對價關係</span><span style="color:red; font-family:Calibri;">"</span>的左引號與右引號不成對：可能原檔的筆者發現左邊的引號還是「右引號」的錯誤模樣，又不知道怎麼變為左引號，所以把該字體改為左右引號都同款式的字體，但卻忘了一併修改右引號。(盡量別用這種看似天才的方法！)
 
 
-### 怎麼辦
+### 解法
 要讓左引號出現？很容易的，
 - 文章或段落起頭，直接輸入 "Enter" 鍵旁的 「&quot;」 鍵即出現左引號。
 - 要鍵出左引號，要先鍵入一個空白鍵，再鍵入 「&quot;」 鍵即可出現左引號。若不需要該空白，出現左引號後再刪除。
@@ -64,12 +64,32 @@ tags: [排版, Word, Excel, PowerPoint]
 
 英式的引號輸入設計是英文的書寫模式，因為每個單字間都會有一個空白鍵，自然空白鍵後會是左引號；而右引號的左邊通常不會是空白。原理正是如此。
 
+### 結論
 示範：
-1. <pre>"他媽的"</pre><span style="color:red;">"他媽的"
-2. <pre>他"媽"的</pre><span style="color:red;">他"媽"的</span>
-3. <pre>他 "媽"的</pre><span style="color:red;">他 "媽"的</span>
-4. <pre>他 "媽" 的</pre><span style="color:red;">他 "媽" 的</span>
-5. <pre>他 "媽 " 的</pre><span style="color:red;">他 "媽 " 的</span>
+1. 
+```
+"他媽的"
+```
+<span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span>
+2. 
+```
+他"媽"的
+```
+他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的
+3. 
+```
+他 "媽"的
+```
+他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的
+4. 
+```
+他 "Mom" 的
+```
+他<span style="font-family:Arial;"> "</span>Mom<span style="font-family:Arial;">" </span>的
+5. 
+```
+他 "媽 " 的
+```
+他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的
 
 我建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
-
