@@ -27,7 +27,7 @@ tags: [排版, Word, Excel, PowerPoint]
 
 ![](/blog/assets/images/2019/quotation2.jpg "國泰金融電子月刊 4 月號")
 
-「國泰秉持<span style="color:red;">"</span> What if we could" 為不...」，看出錯誤了嗎？
+「國泰秉持<span style="color:red;">" What if we could"</span> 為不...」，看出錯誤了嗎？
 
 我常在想，為什麼會出這種錯，而且到處都是呢！若先排除一部份可能的疏忽，其他的原因不外乎二種。一是「不懂」，一是「不會」。
 
