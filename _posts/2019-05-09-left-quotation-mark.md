@@ -48,7 +48,7 @@ tags: [排版, Word, Excel, PowerPoint]
 該範例的錯誤：
 1. 先用標楷體寫了<span style="color:red; font-family:標楷體;">" 營業"</span>：左引號錯誤；
 1. 接著轉換字體用<span style="color:red; font-family:新細明體;">細明體</span>：我不知道為何要換字體，可能是從別的檔案貼過來忘了改字體吧；
-1. <span style="color:red; font-family:新細明體;">"交易或對價關係"</span>的左引號與右引號字體不同：可能原檔的筆者發現左邊的引號還是「右引號」的錯誤模樣，又不知道怎麼變為左引號，所以把該字體改為左右引號都同款式的字體，但卻忘了一併修改右引號。(盡量別用這種看似天才的方法！)
+1. <span style="color:red; font-family:細明體;">"交易或對價關係</span><span style="color:red; font-family:Calibri;">"</span>的左引號與右引號字體不同：可能原檔的筆者發現左邊的引號還是「右引號」的錯誤模樣，又不知道怎麼變為左引號，所以把該字體改為左右引號都同款式的字體，但卻忘了一併修改右引號。(盡量別用這種看似天才的方法！)
 
 
 ### 怎麼辦
