@@ -49,4 +49,4 @@ tags: [跑步]
 以上故事當然是假的，只有成績是真的，2019/05/12 第 17 屆台北舒跑杯。
 
 
-![1](/blog/assets/images/2019/rope2.jpg)
+![2](/blog/assets/images/2019/rope2.jpg)
