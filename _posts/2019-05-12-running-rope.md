@@ -6,15 +6,11 @@ category: 謅
 tags: [跑步]
 ---
 
-
-![1](/blog/assets/images/2019/rope1.jpg)
+<img src="/blog/assets/images/2019/rope1.jpg" style="display:block;margin:auto;width:500px"/>
 
 今天是我拿到陪跑員證書後第一次「真實」上場，以前都只是練習，有些是眼睛精明的偽盲胞來讓我練習，有些則是視障志工來陪我們練習。所以今天是正式穿著螢光綠色上衣背心，真實跑在仁愛路上，從市政府到總統府，來回共 9 KM 的真實路跑，我要牽著一位視障跑者。
 
-
 <!--more-->
-
-
 
 我與今天的主人翁許小姐約在台北101站 5 號出口，時間是早上 5:20。
 
