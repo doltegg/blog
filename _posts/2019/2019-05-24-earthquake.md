@@ -6,7 +6,7 @@ category: 訣
 tags: [書, 佳句]
 ---
 
-<img src="/blog/assets/images/2019/earthquake.jpg" style="display:block;margin:auto;width:200px"/>
+<img src="/blog/assets/images/2019/earthquake.jpg" style="width:200px"/>
 
 - 也為那些數字傷痛過，
 可那卻是山高水遠的傷痛，
