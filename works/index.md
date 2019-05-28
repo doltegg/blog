@@ -4,6 +4,12 @@ title: 小品作集
 type: works
 ---
 
+#### 其他網站
+
+- <a target="_blank" href="https://doltegg.github.io/text/">排一手好蛋</a>：工作上大家常犯的排版錯誤。
+- <a target="_blank" href="https://doltegg.github.io/book/">egg's Books</a>：記錄書上的錦言佳句。
+- <a target="_blank" href="https://doltegg.github.io/cathax/">Cathax's Reports</a>：專門罵 Cathax 這間公司。
+
 #### 專題
 
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration/work/math.pdf">數數</a>
@@ -40,10 +46,6 @@ type: works
 - <a target="_blank" href="article/due.pdf">正當程序</a>
 - <a target="_blank" href="article/crime.pdf">現行犯</a>
 
-#### 其他網站
 
-- <a target="_blank" href="https://doltegg.github.io/text/">排一手好蛋</a>：工作上大家常犯的排版錯誤。
-- <a target="_blank" href="https://doltegg.github.io/book/">egg's Books</a>：記錄書上的錦言佳句。
-- <a target="_blank" href="https://doltegg.github.io/cathax/">Cathax's Reports</a>：專門罵 Cathax 這間公司。
 
 <!--Building...-->
