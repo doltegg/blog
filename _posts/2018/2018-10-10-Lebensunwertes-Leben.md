@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lebensunwertes Leben
+date: 2018-10-10
 category: [說, 誌]
 tags: [腦袋瓜, 癲癇, 書, 看護]
 ---
