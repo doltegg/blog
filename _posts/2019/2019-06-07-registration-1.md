@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 登記
-date: 2018-06-07
+date: 2019-06-07
 category: [謅]
 tags: [看護]
 ---
