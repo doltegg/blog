@@ -9,8 +9,8 @@ tags: [看護]
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 ><i class="fas fa-quote-left fa-3x fa-pull-left"></i>
->『天底下最可愛的一本書叫「秘書」，<br />
-> 天底下最可怕的一本書叫「結婚證書」。』
+>天底下最可愛的一本書叫「秘書」，<br />
+> 天底下最可怕的一本書叫「結婚證書」。
 
 <!--more-->
 
