@@ -4,6 +4,8 @@ title: 3 分鐘說 18 萬個故事， 打造影響力 (許榮哲)
 date: 2019-06-19
 category: 訣
 tags: [書, 佳句]
+mathjax: true
+mathjax_autoNumber: false
 ---
 
 <img src="https://doltegg.github.io/egg/others/egg/story1.jpg" style="width:250px"/>
