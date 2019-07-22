@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 左引號
-date: 2019-05-21 21:27:11 +0000
+date: 2019-07-20 12:09:11 +0000
 category: 誌
 tags: [同事, 課]
 ---
 
 ![1](/blog/assets/images/2019/quotation.jpg)
+<img src="/blog/assets/images/2019/quotation.jpg" style="width:600px"/>
 
 星期三下午我對爆滿第六會議室的 80 位聽眾問一個問題：「這張（如圖）貼在茶水間洗手檯上牆壁的告示有什麼問題？」
 
