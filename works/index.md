@@ -39,9 +39,9 @@ type: works
 
 - <a target="_blank" href="article/robo.pdf">意義 (智能投資)</a>
 - <a target="_blank" href="article/robo2.pdf">洗白程式 (智能投資)</a>
-- <a target="_blank" href="">第一封檢舉信</a>
-- <a target="_blank" href="">第二封檢舉信</a>
-- <a target="_blank" href="">第三封檢舉信</a>
+- <a target="_blank" href="article/1st.pdf">第一封檢舉信</a>
+- <a target="_blank" href="article/2nd.pdf">第二封檢舉信</a>
+- <a target="_blank" href="article/3rd.pdf">第三封檢舉信</a>
 - <a target="_blank" href="">猶之與人也， 出納之吝， 謂之有司</a>
 - <a target="_blank" href="article/due.pdf">正當程序</a>
 - <a target="_blank" href="article/crime.pdf">現行犯</a>
