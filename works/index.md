@@ -26,7 +26,8 @@ type: works
 
 #### 投影片教學
 
-- <a target="_blank" href="article/ppt.pdf">PowerPoint</a>
+- <a target="_blank" href="article/ppt.pdf">PowerPoint (*.pdf)</a>
+- <a target="_blank" href="article/ppt.pptx">PowerPoint (*.pptx)</a>
 - <a target="_blank" href="https://doltegg.github.io/egg/demonstration.html#/">Reveal.js</a>
 
 #### 前所未見的 Excel 寶典
