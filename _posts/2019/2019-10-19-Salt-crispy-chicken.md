@@ -8,7 +8,9 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/blog/assets/images/2019/chicken.jpg" style="width:280px"/>
+<img src="https://doltegg.github.io/blog/assets/images/2019/chicken.jpg" style="width:260px"/>
+
+<!--more-->
 
 又看到沒買過的口味，<br />
 沒買對不起商家，<br />
