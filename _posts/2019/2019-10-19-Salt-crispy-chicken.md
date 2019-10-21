@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/blog/assets/images/2019/chicken.jpg" style="width:260px"/>
+<img src="https://doltegg.github.io/blog/assets/images/2019/chicken.jpg" style="width:275px"/>
 
 <!--more-->
 
