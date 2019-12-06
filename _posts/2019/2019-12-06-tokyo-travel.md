@@ -51,8 +51,8 @@ tags: [吃]
 	BR191 12:15 – 15:00 羽田 – 松山<br />
 
 ### 照片
+
+![銀杏](/blog/assets/images/2019/tokyo1.jpg "左：上野公園，右：東京大學")<br />
+![鋼彈](/blog/assets/images/2019/tokyo2.jpg "台場鋼彈")<br />
 ![11/29 串燒燒肉店](/blog/assets/images/2019/tokyo.jpg "11/29 串燒燒肉店")<br />
-![11/29 串燒燒肉店](/blog/assets/images/2019/tokyo1.jpg "11/29 串燒燒肉店")<br />
-![11/29 串燒燒肉店](/blog/assets/images/2019/tokyo2.jpg "11/29 串燒燒肉店")<br />
-![11/29 串燒燒肉店](/blog/assets/images/2019/tokyo3.jpg "11/29 串燒燒肉店")<br />
 
