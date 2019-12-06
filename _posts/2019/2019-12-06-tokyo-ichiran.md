@@ -4,6 +4,7 @@ title: 廁紙
 date: 2019-12-06 15:32:11 +0000
 category: 誌
 tags: [行]
+mathjax: true
 ---
 ![整牆的廁紙](/blog/assets/images/2019/ichiran.jpg "整牆的廁紙")<br />
 
@@ -17,7 +18,7 @@ tags: [行]
 真有創意！
 
 12 捲的排列廁紙，<br />
-可惜的是它的維度是 $4\times 3$，<br />
+可惜的是它的維度是 $$4\times 3$$，<br />
 並不是左右或上下對稱的；<br />
 也就是說，<br />
 找不出中間的那一捲，<br />
