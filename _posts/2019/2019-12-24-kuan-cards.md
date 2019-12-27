@@ -1,21 +1,21 @@
 ---
 layout: post
-title: 管 Sir 的問候
+title: 2019 管 Sir 的問候
 date: 2019-12-24
 category: 說
 tags: [管]
 ---
 
->台大教授**管中閔**：<br />
->「從 1 月到 4 月多發生許多事情，當然對我個人產生很多的影響，但最困難的時間其實已經過了，而且我活下來了。」
-<!--
->**我**說，<br />
->從 1 月到 4 月多發生許多事情，當然對我個人產生很多的影響，但最困難的時間其實已經過了，而且我活下來了。
+2019 年 12 月 24 日，耶誕快樂，新春如意：
+<img src="https://doltegg.github.io/book/images/7meetings2.jpg" style="width:250px"/>
 
->台大教授**管中閔**：<br />
->「我本身是被遴選者，只要台大堅持，遴選結果沒有問題，我願意跟台大站在一起。」
+<!--more-->
 
->**我**說，<br />
->我本身是管老師的學生，只要老師堅持，我願意跟老師站在一起，也包含殺第 3 任教育部長。葉先生，該收拾包袱了，二個月的時間快到了。
+2019 年 8 月 31 日，中秋佳節愉快：
+<img src="https://doltegg.github.io/book/images/7meetings2.jpg" style="width:250px"/>
 
-**我願意一直跟管老師站在一起。**
+2019 年 5 月 5 日，端午節如意安康：
+<img src="https://doltegg.github.io/book/images/7meetings2.jpg" style="width:250px"/>
+
+2019 年 1 月 31 日，佳節愉快，並賀春釐：
+<img src="https://doltegg.github.io/book/images/7meetings2.jpg" style="width:250px"/>
