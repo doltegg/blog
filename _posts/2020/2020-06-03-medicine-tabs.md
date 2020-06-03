@@ -6,8 +6,7 @@ category: 誌
 tags: [看病, 腦袋瓜, 癲癇, 數]
 ---
 
-![藥袋](/blog/assets/images/2020/tab1.jpg)<br />
-<img src="https://doltegg.github.io/blog/assets/images/2020/tab1.jpg" style="width:250px;"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/tab1.jpg" style="width:600px;"/>
 
 我的每次慢性病處方箋可以拿三次藥，每次拿藥隔 4 周，三次共 12 周，意思就是每12周要回診一次，再拿一張慢性病處方箋。
 
@@ -31,8 +30,7 @@ UCB 是一家位於比利時布魯塞爾的生物製藥公司，致力於研發�
 
 今天下班，我斟了一杯水，正要拿起那排藥，它還是偶數顆。
 
-![藥](/blog/assets/images/2020/tab2.jpg)<br />
-<img src="https://doltegg.github.io/blog/assets/images/2020/tab2.jpg" style="width:250px;"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/tab2.jpg" style="width:500px;"/>
 
 「幹！」聰明如我，馬上意識到，「早上又忘記吃藥了。」
 
