@@ -5,6 +5,9 @@ date: 2020-05-20 21:24:11 +0000
 category: 評
 tags: [金融商品, 意有所指]
 ---
+
+<iframe width="560" height="315" src="https://youtu.be/R5qgfypXDec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![智能投資影片](/blog/assets/images/2020/robo1.png)<br />
 
 某銀行在推廣智能投資工具的體驗會上，播出一支重金禮聘網紅博恩及視網膜所拍攝的廣告。
