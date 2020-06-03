@@ -6,7 +6,7 @@ category: 評
 tags: [金融商品, 意有所指]
 ---
 
-<iframe width="560" height="315" src="https://youtu.be/R5qgfypXDec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="962" height="541" src="https://www.youtube.com/embed/R5qgfypXDec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![智能投資影片](/blog/assets/images/2020/robo1.png)<br />
 
