@@ -28,7 +28,7 @@ UCB 是一家位於比利時布魯塞爾的生物製藥公司，致力於研發�
 
 我優閒的藥，一排 10 顆，排列成兩行。如果兩行一樣長，我稱之為偶數顆；若兩行不一樣長，使得有一行多出一顆，我稱之為奇數顆。昨天下班回家，擠出那行多出一顆的藥後，讓那排藥的兩行長度一致，即為偶數顆。
 
-<img src="https://doltegg.github.io/blog/assets/images/2020/tab3.jpg" style="width:500px;"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/tab2.jpg" style="width:500px;"/>
 
 今天下班，我斟了一杯水，正要拿起那排藥，它還是偶數顆。
 
@@ -36,7 +36,7 @@ UCB 是一家位於比利時布魯塞爾的生物製藥公司，致力於研發�
 
 寫了以上那麼多沒意義的柴米油鹽，我其實只是想表達開始服用慢性藥的兩年來，每天晚上，我從剩下的藥應該是偶數，當它還沒變成習慣前，偶然一天竟變成了奇數，又一陣子盯著奇數的過程，毫無預警地要接受回復成偶數，一而再，再而三。
 
-<img src="https://doltegg.github.io/blog/assets/images/2020/tab2.jpg" style="width:500px;"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/tab3.jpg" style="width:500px;"/>
 
 是嗜睡、無力感、行為異常及眩暈嗎？是初老？不，是**已老**。
 
