@@ -7,7 +7,7 @@ mathjax: true
 tags: [egg, 同學, 看護]
 ---
  
-<img src="https://doltegg.github.io/blog/assets/images/2020/puli1.jpg" style="width:400px;"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/puli1.jpg" style="width:450px;"/>
 
 我搭阿凡的車到埔里箱根，好不容易成行的大夥聚會，趁著小孩子的暑假，才得以順利。
 
