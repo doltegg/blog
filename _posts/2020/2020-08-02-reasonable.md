@@ -41,4 +41,4 @@ tags: [egg, 同學, 看護]
 
 
 <div style="height:400px;"></div>
-<div style="color:#ddd;">實情是，家惠為了怕我先付錢，守在櫃檯等著阿凡進來付帳。</div>
+<div style="color:#ddd;">實情是，家惠為了怕我先付錢，然而她的身上又沒帶錢，只好守在櫃檯等著阿凡進來付帳。</div>
