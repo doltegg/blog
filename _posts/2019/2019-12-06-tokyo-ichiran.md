@@ -3,7 +3,7 @@ layout: post
 title: 廁紙
 date: 2019-12-06 15:32:11 +0000
 category: 誌
-tags: [行]
+tags: [行, 看護]
 mathjax: true
 ---
 ![整牆的廁紙](/blog/assets/images/2019/ichiran.jpg "整牆的廁紙")<br />
