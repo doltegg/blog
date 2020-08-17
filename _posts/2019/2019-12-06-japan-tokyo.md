@@ -3,7 +3,7 @@ layout: post
 title: 2019 東京行
 date: 2019-12-06 14:27:11 +0000
 category: 誌
-tags: [行, 吃]
+tags: [行, 吃, 看護]
 ---
 
 ![ticket](/blog/assets/images/2019/pass.jpg "72-hour ticket")<br />
