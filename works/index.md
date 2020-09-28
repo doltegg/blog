@@ -46,6 +46,7 @@ type: works
 - <a target="_blank" href="">猶之與人也， 出納之吝， 謂之有司</a>
 - <a target="_blank" href="article/due.pdf">正當程序</a>
 - <a target="_blank" href="article/crime.pdf">現行犯</a>
+- <a target="_blank" href="article/verdict.pdf">評議中心的評議書</a>
 - <a target="_blank" href="article/whistle.pdf">獨立董事信箱</a>
 
 
