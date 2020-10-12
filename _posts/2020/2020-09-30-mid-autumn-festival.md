@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 管 Sir 的端午節平安
+title: 2020 管 Sir 的中秋佳節愉快
 date: 2020-09-30
 category: 說
 tags: [管]
