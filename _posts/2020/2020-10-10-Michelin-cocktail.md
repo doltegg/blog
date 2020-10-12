@@ -35,4 +35,4 @@ tags: [吃, 同事]
 
 我是不是寫著寫著又離題了？
 
-<img src="https://doltegg.github.io/blog/assets/images/2020/cocktail.jpg" style="width:275px"/>
+<img src="https://doltegg.github.io/blog/assets/images/2020/cocktail.jpg" style="width:450px"/>
