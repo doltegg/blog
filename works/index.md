@@ -53,7 +53,7 @@ type: works
 - <a target="_blank" href="article/whistlereply.pdf">檢舉制度回覆</a>
 
 
-#### 檢舉制度
+#### 評議中心
 
 - <a target="_blank" href="article/verdict.pdf">109 年評字第 1218 號評議書</a>
 - <a target="_blank" href="article/foi1218.pdf">109 年評字第 1218 號評議成立</a>
