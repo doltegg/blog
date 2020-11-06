@@ -43,14 +43,21 @@ type: works
 - <a target="_blank" href="">猶之與人也， 出納之吝， 謂之有司</a>
 - <a target="_blank" href="article/due.pdf">正當程序</a>
 - <a target="_blank" href="article/crime.pdf">現行犯</a>
-- <a target="_blank" href="article/verdict.pdf">109 年評字第 1218 號評議書</a>
-- <a target="_blank" href="article/foi1218.pdf">109 年評字第 1218 號評議成立</a>
+
 
 #### 檢舉制度
+
 - <a target="_blank" href="article/1st.pdf">第一封檢舉信</a>
 - <a target="_blank" href="article/2nd.pdf">第二封檢舉信</a>
 - <a target="_blank" href="article/3rd.pdf">第三封檢舉信</a>
 - <a target="_blank" href="article/whistlereply.pdf">檢舉制度回覆</a>
+
+
+#### 檢舉制度
+
+- <a target="_blank" href="article/verdict.pdf">109 年評字第 1218 號評議書</a>
+- <a target="_blank" href="article/foi1218.pdf">109 年評字第 1218 號評議成立</a>
+
 
 #### 獨立董事信箱
 
