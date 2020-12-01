@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-## 服從權威：有多少罪惡，假服從之名而行
+## 服從權威：有多少罪惡，假服從之名而行？
 
 <img src="https://doltegg.github.io/book/images/ObedienceAuthority.jpg" style="width:250px;">
 
