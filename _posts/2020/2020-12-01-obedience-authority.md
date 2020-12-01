@@ -8,9 +8,9 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/ObedienceAuthority.jpg" style="width:250px;">
-
 ## 服從權威：有多少罪惡，假服從之名而行
+
+<img src="https://doltegg.github.io/book/images/ObedienceAuthority.jpg" style="width:250px;">
 
 - 漢娜‧鄂蘭提醒我們，不是很邪惡的人，才會做出邪惡的事，一般的人若不加思索地服從邪惡的提示，仍會做出邪惡的事，甚至大多數的邪惡，都是這樣造成的。  (p.8)
 
