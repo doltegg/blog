@@ -6,7 +6,7 @@ category: 說
 tags: [意有所指, 同事]
 ---
 
-12月3日我們部門的line群組，主管傳了一則新聞，在該新聞訊息之後加註一個評論：<br>
+12月3日我們部門的 line 群組，主管傳了一則新聞，在該新聞訊息之後加註一個評論：<br>
 > 「金控公司希望別人贊助是不是搞錯了什麼？XD」
  
 <img src="/blog/assets/images/2020/forget1.jpg" style="width:400px"/>
