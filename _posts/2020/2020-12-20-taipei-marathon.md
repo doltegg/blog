@@ -10,6 +10,8 @@ tags: [egg, 跑步]
  
 <img src="/blog/assets/images/2020/fum1.jpg" style="height:500px"/>
 
+<!--more-->
+
 人生的第 4 個半馬入手，成績 02:38:03。沒有大腿酸、小腿痛，這次竟然是大腿的根部，也就是俗話稱的「該邊」酸痛。
 
 中山北路路段，大概在半馬起點的 8 公里附近，有一個獨自一人站在行道樹上草皮上，拿著豎著的直條紙箱紙板，其上寫著 “At least you are not at work.” 不是電腦輸出，是用奇異筆在紙箱上手工寫出的直書英文字。
@@ -20,7 +22,7 @@ tags: [egg, 跑步]
 
 對，我不是在工作，但今早一共是 21.0795 公里，大約 30000 個步伐。我何苦來哉！
 
-
-<img src="/blog/assets/images/2020/fum2.jpg" style="height:450px; float:left"/>
-<img src="/blog/assets/images/2020/fum3.jpg" style="height:450px; float:right"/>
-
+<div style="flex">
+<img src="/blog/assets/images/2020/fum2.jpg" style="height:450px"/>
+<img src="/blog/assets/images/2020/fum3.jpg" style="height:450px"/>
+</div>
