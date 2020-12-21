@@ -20,5 +20,7 @@ tags: [egg, 跑步]
 
 對，我不是在工作，但今早一共是 21.0795 公里，大約 30000 個步伐。我何苦來哉！
 
-<img src="/blog/assets/images/2020/fum2.jpg" style="height:300px"/>
-<img src="/blog/assets/images/2020/fum3.jpg" style="height:300px"/>
+
+<img src="/blog/assets/images/2020/fum2.jpg" style="height:350px; float:left"/>
+<img src="/blog/assets/images/2020/fum3.jpg" style="height:350px; float:left"/>
+
