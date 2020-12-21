@@ -20,5 +20,5 @@ tags: [egg, 跑步]
 
 對，我不是在工作，我何苦來哉！共 21.0795 公里，大約 30000 個步伐。
 
-<img src="/blog/assets/images/2020/fum2.jpg" style="width:500px"/>
-<img src="/blog/assets/images/2020/fum3.jpg" style="width:500px"/>
+<img src="/blog/assets/images/2020/fum2.jpg" style="height:300px"/>
+<img src="/blog/assets/images/2020/fum3.jpg" style="height:300px"/>
