@@ -8,8 +8,8 @@ tags: [egg, 跑步]
 
 一群人迎著冷風雨水，陪著我在這排隊等流動廁所。
  
-<img src="/blog/assets/images/2020/fum1.jpg" style="width:400px"/><br>
-<img src="/blog/assets/images/2020/fum2.jpg" style="width:400px"/>
+<img src="/blog/assets/images/2020/fum1.jpg" style="height:400px"/><br>
+<img src="/blog/assets/images/2020/fum2.jpg" style="height:400px"/>
 <!--more-->
 
 人生的第 4 個半馬入手，成績 02:38:03。沒有大腿酸、小腿痛，這次竟然是大腿的根部，也就是俗話稱的「該邊」酸痛。
@@ -22,4 +22,4 @@ tags: [egg, 跑步]
 
 對，我不是在工作，我何苦來哉！共 21.0795 公里，大約 30000 個步伐。
 
-<img src="/blog/assets/images/2020/fum3.jpg" style="width:400px"/>
+<img src="/blog/assets/images/2020/fum3.jpg" style="width:550px"/>
