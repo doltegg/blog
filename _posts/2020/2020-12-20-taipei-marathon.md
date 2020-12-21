@@ -8,7 +8,7 @@ tags: [egg, 跑步]
 
 一群人迎著冷風雨水，陪著我在這排隊等流動廁所。
  
-<img src="/blog/assets/images/2020/fum1.jpg" style="height:400px"/><br>
+<img src="/blog/assets/images/2020/fum1.jpg" style="height:400px"/>
 <img src="/blog/assets/images/2020/fum2.jpg" style="height:400px"/>
 <!--more-->
 
