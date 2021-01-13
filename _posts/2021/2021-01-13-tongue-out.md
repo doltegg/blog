@@ -3,7 +3,7 @@ layout: post
 title: 我在幹嘛
 date: 2021-01-13
 category: 誌
-tags: [跑步]
+tags: [跑步, egg]
 ---
 
 2020年12月20日台北馬的日子，21公里的路上有一個讓我會心一笑的標語： “At least you are not at work.” 這篇文之前發布過了。
