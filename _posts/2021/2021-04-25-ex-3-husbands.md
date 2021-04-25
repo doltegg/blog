@@ -9,8 +9,8 @@ tags: [戲劇]
 
 > 「每次家裡紗窗要修理時，我都會想，要不要結第四次婚呢，但對象絕對不是你們，請你們不用替我擔心！」
  
-<img src="/blog/assets/images/2021/ex1.jpg" style="width:350px"/>
-<img src="/blog/assets/images/2021/ex2.jpg" style="width:350px"/>
+<img src="/blog/assets/images/2021/ex1.jpg" style="width:400px"/>
+<img src="/blog/assets/images/2021/ex2.jpg" style="width:400px"/>
 
 <!--more-->
 
