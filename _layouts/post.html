@@ -4,3 +4,9 @@ layout: layout
 
 {% assign __ = site.data.languages[site.language] %}
 {% include post.html %}
+
+{% if site.liker_id %}
+    <div class="like-bottom">
+      {% include like-bottom.html %}
+    </div>
+{% endif %}
