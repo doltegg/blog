@@ -2,7 +2,7 @@
 layout: post
 title: Move to Heaven
 date: 2021-05-29
-category: 訣
+category: 評
 tags: [劇]
 mathjax: true
 mathjax_autoNumber: false
