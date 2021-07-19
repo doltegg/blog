@@ -10,7 +10,7 @@ mathjax_autoNumber: false
 
 <img src="/blog/assets/images/2021/currency.jpg" style="width:900px;">
 
-先問一下，有人記得貳佰元鈔票是什麼顏色嗎？
+先問一下，有人記得貳佰元鈔票是什麼顏色嗎？ (答案是 #afdabc)
 
 <!--more-->
 
