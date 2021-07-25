@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh_TW">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -80,6 +80,10 @@
             width: 100%;
             margin: 20px;
             color: #333;
+        }
+        section .container .msg h2 span{
+            color: orangered;
+            /* color: #ff0157; */
         }
         section .container p{
             font-size: 15px;
@@ -174,258 +178,503 @@
             height: 160px;
             margin: 0 5px;
         }
+        section.mobile{
+            display: none;
+        }
+
+
+        @media(max-width: 991px){
+            section.screen{
+                display: none;
+            }
+            section.mobile{
+                display: flex;
+            }         
+            section .container{
+                width: 400px;
+            }
+            section .container .w50{
+            position: relative;
+            width: 100%;
+            height:5000px;
+            background: #fff;
+            }
+        }
 
     </style>
 </head>
 <body>
-
-        <section>
-            <div class="container">
-                <div class="w50 left">
-                    <div class="imgbx"><img src="assets/images/pics/jc01.jpg"></div>
-                    <div class="msg">
-                        <!-- Title 2 -->
-                        <h2>02 疑問</h2>
-                        <p>下午 5:57，我在回家路上的捷運上。LINE來了一則訊息：「你大約何時會下班到家，方便給我地址嗎？」</p>                        
-                        <p>我直覺式地疏忽了他早上最後傳來所說的：下班要LINE我，我的認知還停留在他最初所說的「這週」，所以寧願相信不會是那麼倉促的今天，早上才說要拿東西給我，下午就馬上約說要面交。除非是「小東西」，有預謀的隨時帶在身上。</p>                        
-                        <p>我再次回傳訊息與他確認「今天嗎」？</p>                        
-                        <p>「是」。</p>                        
-                        <p>於是他跟我約定1830—1900要拿東西到我家給我。</p>                        
-                        <p>我產生了許多疑問：他吃飯了嗎？他現在在哪？要到我家？若在公司，他到我家根本不順路啊？</p>
-                        <div class="btn">
-                            <div>
-                                <button type="button" class="next3"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                            </div>    
-                            <div>
-                                <button type="button" class="next4"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                            </div>
+    <section class="mobile">
+        <div class="container">
+            <div class="w50 colM">
+                <div class="msg">
+                    <h2><span>01 </span>&nbsp; 老朋友</h2>
+                    <p>7/19 一早的會議中，我本不是出席委員，只是我的在場讓那些老傢伙們比較安心地使用視訊方式開會。</p>
+                    <p>這根本不是我的會議，所以我光明正大的滑著手機。突然有一條訊息跳出來，恰巧被我無意的手指點開，畫面轉到 LINE 的聊天訊息。</p>
+                    <p>「Hi, 有東西給你，這週那天晚上方便，我下班過去六張犁找你。」</p>
+                    <p>我瞄一下訊息來源，是 jasin。心想，他和 chuan 可能又在慎重其事地張羅我的生日了。但若是生日禮物，詭異的是距我的生日還有二個星期，況且現在又是疫情期間，直接找上我來人與人的結連似乎有點不妥。</p>
+                    <p>雖然不知道他們賣什麼藥，我還是回了「都可以」。</p>                            
+                    <div class="btn">
+                        <div>
+                            <!-- <button type="button" class="next1"><i class="fa fa-chevron-left" aria-hidden="true"></i></button> -->
+                        </div>    
+                        <div>
+                            <button type="button" class="next2"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
                     </div>
-                    <div class="imgbx"><img src="assets/images/pics/jc03.jpg"></div>
-                    <div class="msg">
-                        <!-- Title 4 -->
-                        <h2>04 葫蘆</h2>
-                        <p>他背著藍色袋子，從肩上拿下來。藍色袋子裡還有一只相同的藍色袋子，要用二層袋子裝的東西顯然應該很重。</p>
-                        <p>二層藍色袋子裡最上面有一包原味紅色可樂果，可樂果下面有一包錫箔或鋁箔泡棉包著的一袋東西，用透明膠布封裝。看來應該是需要保冷的東西。</p>
-                        <p>「你不要為了我又花錢買些有的沒有的！」我保留「生日」二個字沒說出口。</p>
-                        <p>「沒有亂花錢，這些你一定用的到。」他再三保證。</p>
-                        <p>我接過袋子，挺重的，應該足足有 4.2 公斤。摸了一下銀色的袋子，冰冰涼涼的，我猜應該是吃的。</p>
-                        <p>「袋子怎麼辦？」</p>
-                        <p>「給你了。」</p>                  
-                        <div class="btn">
-                            <div>
-                                <button type="button" class="next7"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                            </div>    
-                            <div>
-                                <button type="button" class="next8"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                            </div>
+                </div>
+                <div class="msg">                        
+                    <h2><span>02 </span>&nbsp; 疑問</h2>
+                    <p>下午 5:57，我在回家路上的捷運上。LINE來了一則訊息：「你大約何時會下班到家，方便給我地址嗎？」</p>                        
+                    <p>我直覺式地疏忽了他早上最後傳來所說的：下班要LINE我，我的認知還停留在他最初所說的「這週」，所以寧願相信不會是那麼倉促的今天，早上才說要拿東西給我，下午就馬上約說要面交。除非是「小東西」，有預謀的隨時帶在身上。</p>                        
+                    <p>我再次回傳訊息與他確認「今天嗎」？</p>                        
+                    <p>「是」。</p>                        
+                    <p>於是他跟我約定1830—1900要拿東西到我家給我。</p>                        
+                    <p>我產生了許多疑問：他吃飯了嗎？他現在在哪？要到我家？若在公司，他到我家根本不順路啊？</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next3"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next4"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
                     </div>
-                    <div class="imgbx"><img src="assets/images/pics/jc05.jpg"></div>
-                    <div class="msg">
-                        <!-- Title 6 -->
-                        <h2>06 尋寶</h2>
-                        <p>回到家，先把可樂果拿出來。再把整包錫箔泡棉打開，裡頭是開始流汗的樂利包飲料。</p>
-                        <p>我一瓶一瓶拿出來放進冰箱，總共是 8 瓶。台灣農林琥珀決明紅茶 2 瓶、鮮摘果園芭樂汁 2 瓶、蜜蜂工坊茉香沁綠 1 瓶、立頓水果冰茶 1 瓶、園之味葡萄汁 1 瓶、園之味柳橙汁 1 瓶。</p>
-                        <p>暫時不管 2 個藍色袋子與錫箔泡棉袋，以上就是所有的線索，功課就是找出寶藏。</p>
-                        <p>可樂果對應芭樂汁，得到「樂」；可樂果對應水果冰茶，得出「果」；決明紅茶對應水果冰茶，取出「茶」；芭樂汁、葡萄汁、柳橙汁，好像有一個共通點「汁」。</p>
-                        <p>樂。果。茶。汁。</p>
-                        <div class="btn">
-                            <div>
-                                <button type="button" class="next11"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                            </div>    
-                            <div>
-                                <button type="button" class="next12"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="imgbx"><img src="assets/images/pics/jc07.jpg"></div>
-                    <div class="msg">
-                        <!-- Title 8 -->
-                        <h2>08 生日快樂</h2>
-                        <p>他回復著附上親手批註的照片。</p>
-                        <div class="pics">
-                            <img src="assets/images/pics/c01.jpg">
-                            <img src="assets/images/pics/c02.jpg">
-                        </div>
-                        <div class="chuan">
-                            <span>老朋友祝你生日快樂</span>    
-                        </div>
-                        <div class="egg">
-                            <span>快過期了</span>
-                        </div>
-                        <div class="chuan">
-                            <span>哪是快過期了</span>    
-                        </div>
-                        <div class="chuan">
-                            <span>16才到貨的</span>    
-                        </div> 
-                        <div class="btn">
-                            <div>
-                                <button type="button" class="next15"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                            </div>    
-                            <div>
-                                <button type="button" class="next16"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="imgbx"><img src="assets/images/pics/jc09.jpg"></div>
-                    <div class="msg">
-                        <!-- Title 10 -->
-                        <h2>10 絕無僅有</h2>
-                        <div class="chuan">
-                            <span>全部啊</span>    
-                        </div>
-                        <div class="chuan">
-                            <span>有印你生日的專屬飲料</span>    
-                        </div>
-                        <div class="egg">
-                            <span>超商冰櫃都是耶</span>
-                        </div>
-                        <div class="chuan">
-                            <span>沒，你以為那麼好找哦</span>    
-                        </div>
-                        <div class="egg">
-                            <span>真辛苦你了</span>    
-                        </div>
-                        <div class="chuan">
-                            <span>幾百瓶才有</span>    
-                        </div>
-                        <p>不管如何，我就是信了，那種無條件地相信。因為只有老朋友才會做這種事。嗯！<b>傻事</b>。</p>
-                        <p>謝謝 jasin & chuan 所做的傻事，謝謝所有會做傻事的朋友。</p>
-                        <div class="sign">egggggggg...</div>
-                        <div class="btn">
-                            <div>
-                                <button type="button" class="next19"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                            </div>    
-                            <div>
-                                <button type="button" class="next20"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                            </div>
+                </div>
+                
+                <div class="msg">
+                    <h2><span>03 </span>&nbsp; 一變再變</h2>
+                    <p>為了搞清楚他的目地，我按了LINE畫面上的話筒鍵過去，一個動作按下去，我立刻後悔，隨即按了取消，因為疫情期間在捷運上講話是不妥的。</p>
+                    <p>我掛了電話，換他來電。我還是接了起來。</p>
+                    <p>他無意要跟我一起吃飯，因為娟會幫他準備湯。</p>
+                    <p>疫情當前他不打算跟我吃飯，既要坐到六張犁，還得徒步到我家，索性讓他別繞太多路了，直接約他淡水線與木柵線的交會點──大安站面交。</p>
+                    <p>講電話的過程他在公司，我隨著捷運已快到大安站了。當我到達大安站，決定先一步到忠孝復興站等他，這樣他就不用再坐回頭車去換藍線了。</p>
+                    <p>一波三折，面交地點由六張犁換成大安在變為忠孝復興。</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next5"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next6"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
                     </div>
                 </div>
 
-                <div class="w50 right">
-                    <div class="imgbx"><img src="assets/images/pics/jc10.jpg"></div>
-                        <div class="msg">
-                            <!-- Title 9 -->
-                            <h2>09 一天要喝 8 罐飲料</h2>
-                            <div class="egg">
-                                <span>謝謝你們的祝福</span>
-                            </div>
-                            <div class="chuan">
-                                <span>祝福你，生日快樂</span>    
-                            </div>
-                            <div class="egg">
-                                <span>8罐飲料也要4、5公斤</span>
-                            </div>
-                            <div class="egg">
-                                <span>讓家興鍊手臂膩</span>
-                            </div>
-                            <div class="chuan">
-                                <span>扛祝福給好朋友，他很開心</span>    
-                            </div>
-                            <div class="egg">
-                                <span>7/30一天灌下8罐飲料會不會太多？</span>
-                            </div>
-                            <div class="chuan">
-                                <span>你可以跟你的看護一起享用</span>    
-                            </div>
-                            <div class="chuan">
-                                <span>也可以一天一罐</span>    
-                            </div>
-                            <div class="chuan">
-                                <span>喝你的專屬飲料</span>    
-                            </div>
-                            <div class="btn">
-                                <div>
-                                    <button type="button" class="next17"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                                </div>    
-                                <div>
-                                    <button type="button" class="next18"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                                </div>
-                            </div>
+                <div class="msg">
+                    <h2><span>04 </span>&nbsp; 葫蘆</h2>
+                    <p>他背著藍色袋子，從肩上拿下來。藍色袋子裡還有一只相同的藍色袋子，要用二層袋子裝的東西顯然應該很重。</p>
+                    <p>二層藍色袋子裡最上面有一包原味紅色可樂果，可樂果下面有一包錫箔或鋁箔泡棉包著的一袋東西，用透明膠布封裝。看來應該是需要保冷的東西。</p>
+                    <p>「你不要為了我又花錢買些有的沒有的！」我保留「生日」二個字沒說出口。</p>
+                    <p>「沒有亂花錢，這些你一定用的到。」他再三保證。</p>
+                    <p>我接過袋子，挺重的，應該足足有 4.2 公斤。摸了一下銀色的袋子，冰冰涼涼的，我猜應該是吃的。</p>
+                    <p>「袋子怎麼辦？」</p>
+                    <p>「給你了。」</p>                  
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next7"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next8"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
-                        <div class="imgbx"><img src="assets/images/pics/jc08.jpg"></div>
-                        <div class="msg">
-                            <!-- Title 7 -->
-                            <h2>07 樂觀指出</h2>
-                            <p>用樂、果、茶、汁四個字的注音聲母，可以變出：樂觀指出、樂觀成長、錄製過程、連綴貫串、離職成功、連戰出國、列出故障、鼓勵支持、鼓勵成長、公正立場、該站出來、公正處理、該處理中、觀察治療、這個立場、中國出來、治療過程、支持率高、超過兩週、除了關注、處理機制、除了各種、除了中國、吃齋管理、吃齋樂觀。</p>
-                            <p>啃！到底要樂觀指出什麼啊？連戰出國嗎？關我甚麼事！</p>
-                            <p>事情應該不是我想的那樣。好，從頭來過吧。果汁、茶、可樂果，8 瓶共 4200 ml、1 包重 24 公克。左思右想良久，我決定暫時先這樣了。</p>
-                            <p>隔天，我問 chuan：「老朋友給我 1 包可樂果 + 8 包果茶，何意？」貼上一張飲料的照片。</p> 
-                            <div class="btn">
-                                <div>
-                                    <button type="button" class="next13"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                                </div>    
-                                <div>
-                                    <button type="button" class="next14"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="msg">
+                    <h2><span>05 </span>&nbsp; 賣什麼藥</h2>
+                    <p>既然是吃的，我想可能是食材或補藥之類。</p>
+                    <p>薑母鴨、羊肉爐、藥燉排骨、十全大補湯？又不是冬天，大熱天吃這麼補，會流鼻血吧！不會是四物湯吧？我姨媽還沒來。</p>
+                    <p>怎麼就像家裡那個娘，雞、鴨、牛、羊熟食拼命要我回家背來。</p>
+                    <p>就在我猜不透其中是何物時，我針對明確的物品發問。「裡面是什麼東西？怎麼還有一包可樂果？」</p>
+                    <p>「你回家可以試著尋寶，看看找出什麼來！」</p>
+                    <p>我與他在木柵線上往動物園方向的月台上聊了幾句，然後我跳上往動物園方向的車廂。他目送我離開後，應該搭手扶梯到地下的板南線往土城方向回家。</p>
+                    <p>我背著重物，終於安然回到家。</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next9"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next10"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
-                        <div class="imgbx"><img src="assets/images/pics/jc06.jpg"></div>
-                        <div class="msg">
-                            <!-- Title 5 -->
-                            <h2>05 賣什麼藥</h2>
-                            <p>既然是吃的，我想可能是食材或補藥之類。</p>
-                            <p>薑母鴨、羊肉爐、藥燉排骨、十全大補湯？又不是冬天，大熱天吃這麼補，會流鼻血吧！不會是四物湯吧？我姨媽還沒來。</p>
-                            <p>怎麼就像家裡那個娘，雞、鴨、牛、羊熟食拼命要我回家背來。</p>
-                            <p>就在我猜不透其中是何物時，我針對明確的物品發問。「裡面是什麼東西？怎麼還有一包可樂果？」</p>
-                            <p>「你回家可以試著尋寶，看看找出什麼來！」</p>
-                            <p>我與他在木柵線上往動物園方向的月台上聊了幾句，然後我跳上往動物園方向的車廂。他目送我離開後，應該搭手扶梯到地下的板南線往土城方向回家。</p>
-                            <p>我背著重物，終於安然回到家。</p>
-                            <div class="btn">
-                                <div>
-                                    <button type="button" class="next9"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                                </div>    
-                                <div>
-                                    <button type="button" class="next10"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="msg">
+                    <h2><span>06 </span>&nbsp; 尋寶</h2>
+                    <p>回到家，先把可樂果拿出來。再把整包錫箔泡棉打開，裡頭是開始流汗的樂利包飲料。</p>
+                    <p>我一瓶一瓶拿出來放進冰箱，總共是 8 瓶。台灣農林琥珀決明紅茶 2 瓶、鮮摘果園芭樂汁 2 瓶、蜜蜂工坊茉香沁綠 1 瓶、立頓水果冰茶 1 瓶、園之味葡萄汁 1 瓶、園之味柳橙汁 1 瓶。</p>
+                    <p>暫時不管 2 個藍色袋子與錫箔泡棉袋，以上就是所有的線索，功課就是找出寶藏。</p>
+                    <p>可樂果對應芭樂汁，得到「樂」；可樂果對應水果冰茶，得出「果」；決明紅茶對應水果冰茶，取出「茶」；芭樂汁、葡萄汁、柳橙汁，好像有一個共通點「汁」。</p>
+                    <p>樂。果。茶。汁。</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next11"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next12"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
-                        <div class="imgbx"><img src="assets/images/pics/jc04.jpg"></div>
-                        <div class="msg">
-                            <!-- Title 3 -->
-                            <h2>03 一變再變</h2>
-                            <p>為了搞清楚他的目地，我按了LINE畫面上的話筒鍵過去，一個動作按下去，我立刻後悔，隨即按了取消，因為疫情期間在捷運上講話是不妥的。</p>
-                            <p>我掛了電話，換他來電。我還是接了起來。</p>
-                            <p>他無意要跟我一起吃飯，因為娟會幫他準備湯。</p>
-                            <p>疫情當前他不打算跟我吃飯，既要坐到六張犁，還得徒步到我家，索性讓他別繞太多路了，直接約他淡水線與木柵線的交會點──大安站面交。</p>
-                            <p>講電話的過程他在公司，我隨著捷運已快到大安站了。當我到達大安站，決定先一步到忠孝復興站等他，這樣他就不用再坐回頭車去換藍線了。</p>
-                            <p>一波三折，面交地點由六張犁換成大安在變為忠孝復興。</p>
-                            <div class="btn">
-                                <div>
-                                    <button type="button" class="next5"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-                                </div>    
-                                <div>
-                                    <button type="button" class="next6"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="msg">
+                    <h2><span>07 </span>&nbsp; 樂觀指出</h2>
+                    <p>用樂、果、茶、汁四個字的注音聲母，可以變出：樂觀指出、樂觀成長、錄製過程、連綴貫串、離職成功、連戰出國、列出故障、鼓勵支持、鼓勵成長、公正立場、該站出來、公正處理、該處理中、觀察治療、這個立場、中國出來、治療過程、支持率高、超過兩週、除了關注、處理機制、除了各種、除了中國、吃齋管理、吃齋樂觀。</p>
+                    <p>啃！到底要樂觀指出什麼啊？連戰出國嗎？關我甚麼事！</p>
+                    <p>事情應該不是我想的那樣。好，從頭來過吧。果汁、茶、可樂果，8 瓶共 4200 ml、1 包重 24 公克。左思右想良久，我決定暫時先這樣了。</p>
+                    <p>隔天，我問 chuan：「老朋友給我 1 包可樂果 + 8 包果茶，何意？」貼上一張飲料的照片。</p> 
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next13"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next14"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
-                        <div class="imgbx"><img src="assets/images/pics/jc02.jpg"></div>
-                        <div class="msg">
-                            <!-- Title 1 -->
-                            <h2>01 老朋友</h2>
-                            <p>7/19 一早的會議中，我本不是出席委員，只是我的在場讓那些老傢伙們比較安心地使用視訊方式開會。</p>
-                            <p>這根本不是我的會議，所以我光明正大的滑著手機。突然有一條訊息跳出來，恰巧被我無意的手指點開，畫面轉到 LINE 的聊天訊息。</p>
-                            <p>「Hi, 有東西給你，這週那天晚上方便，我下班過去六張犁找你。」</p>
-                            <p>我瞄一下訊息來源，是 jasin。心想，他和 chuan 可能又在慎重其事地張羅我的生日了。但若是生日禮物，詭異的是距我的生日還有二個星期，況且現在又是疫情期間，直接找上我來人與人的結連似乎有點不妥。</p>
-                            <p>雖然不知道他們賣什麼藥，我還是回了「都可以」。</p>                            
-                            <div class="btn">
-                                <div>
-                                    <!-- <button type="button" class="next1"><i class="fa fa-chevron-left" aria-hidden="true"></i></button> -->
-                                </div>    
-                                <div>
-                                    <button type="button" class="next2"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="msg">
+                    <h2><span>08 </span>&nbsp; 生日快樂</h2>
+                    <p>他回復著附上親手批註的照片。</p>
+                    <div class="pics">
+                        <img src="assets/images/pics/c01.jpg">
+                        <img src="assets/images/pics/c02.jpg">
+                    </div>
+                    <div class="chuan">
+                        <span>老朋友祝你生日快樂</span>    
+                    </div>
+                    <div class="egg">
+                        <span>快過期了</span>
+                    </div>
+                    <div class="chuan">
+                        <span>哪是快過期了</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>16才到貨的</span>    
+                    </div> 
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next15"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next16"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
                         </div>
-
-                        
+                    </div>
+                </div>
+                <div class="msg">
+                    <h2><span>09 </span>&nbsp; 一天要喝 8 罐飲料</h2>
+                    <div class="egg">
+                        <span>謝謝你們的祝福</span>
+                    </div>
+                    <div class="chuan">
+                        <span>祝福你，生日快樂</span>    
+                    </div>
+                    <div class="egg">
+                        <span>8罐飲料也要4、5公斤</span>
+                    </div>
+                    <div class="egg">
+                        <span>讓家興鍊手臂膩</span>
+                    </div>
+                    <div class="chuan">
+                        <span>扛祝福給好朋友，他很開心</span>    
+                    </div>
+                    <div class="egg">
+                        <span>7/30一天灌下8罐飲料會不會太多？</span>
+                    </div>
+                    <div class="chuan">
+                        <span>你可以跟你的看護一起享用</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>也可以一天一罐</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>喝你的專屬飲料</span>    
+                    </div>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next17"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next18"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>                
+                <div class="msg">
+                    <h2><span>10 </span>&nbsp; 絕無僅有</h2>
+                    <div class="chuan">
+                        <span>全部啊</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>有印你生日的專屬飲料</span>    
+                    </div>
+                    <div class="egg">
+                        <span>超商冰櫃都是耶</span>
+                    </div>
+                    <div class="chuan">
+                        <span>沒，你以為那麼好找哦</span>    
+                    </div>
+                    <div class="egg">
+                        <span>真辛苦你了</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>幾百瓶才有</span>    
+                    </div>
+                    <p>不管如何，我就是信了，那種無條件地相信。因為只有老朋友才會做這種事。嗯！<b>傻事</b>。</p>
+                    <p>謝謝 jasin & chuan 所做的傻事，謝謝所有會做傻事的朋友。</p>
+                    <div class="sign">egggggggg...</div>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next19"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <!-- <button type="button" class="next20"><i class="fa fa-chevron-right" aria-hidden="true"></i></button> -->
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>            
+    </section>
+
+    <section class="screen">
+        <div class="container">
+            <div class="w50 left">
+                <div class="imgbx"><img src="assets/images/pics/jc01.jpg"></div>
+                <div class="msg">
+                    <!-- Title 2 -->
+                    <h2><span>02 </span>&nbsp; 疑問</h2>
+                    <p>下午 5:57，我在回家路上的捷運上。LINE來了一則訊息：「你大約何時會下班到家，方便給我地址嗎？」</p>                        
+                    <p>我直覺式地疏忽了他早上最後傳來所說的：下班要LINE我，我的認知還停留在他最初所說的「這週」，所以寧願相信不會是那麼倉促的今天，早上才說要拿東西給我，下午就馬上約說要面交。除非是「小東西」，有預謀的隨時帶在身上。</p>                        
+                    <p>我再次回傳訊息與他確認「今天嗎」？</p>                        
+                    <p>「是」。</p>                        
+                    <p>於是他跟我約定1830—1900要拿東西到我家給我。</p>                        
+                    <p>我產生了許多疑問：他吃飯了嗎？他現在在哪？要到我家？若在公司，他到我家根本不順路啊？</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next3"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next4"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="imgbx"><img src="assets/images/pics/jc03.jpg"></div>
+                <div class="msg">
+                    <!-- Title 4 -->
+                    <h2><span>04 </span>&nbsp; 葫蘆</h2>
+                    <p>他背著藍色袋子，從肩上拿下來。藍色袋子裡還有一只相同的藍色袋子，要用二層袋子裝的東西顯然應該很重。</p>
+                    <p>二層藍色袋子裡最上面有一包原味紅色可樂果，可樂果下面有一包錫箔或鋁箔泡棉包著的一袋東西，用透明膠布封裝。看來應該是需要保冷的東西。</p>
+                    <p>「你不要為了我又花錢買些有的沒有的！」我保留「生日」二個字沒說出口。</p>
+                    <p>「沒有亂花錢，這些你一定用的到。」他再三保證。</p>
+                    <p>我接過袋子，挺重的，應該足足有 4.2 公斤。摸了一下銀色的袋子，冰冰涼涼的，我猜應該是吃的。</p>
+                    <p>「袋子怎麼辦？」</p>
+                    <p>「給你了。」</p>                  
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next7"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next8"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="imgbx"><img src="assets/images/pics/jc05.jpg"></div>
+                <div class="msg">
+                    <!-- Title 6 -->
+                    <h2><span>06 </span>&nbsp; 尋寶</h2>
+                    <p>回到家，先把可樂果拿出來。再把整包錫箔泡棉打開，裡頭是開始流汗的樂利包飲料。</p>
+                    <p>我一瓶一瓶拿出來放進冰箱，總共是 8 瓶。台灣農林琥珀決明紅茶 2 瓶、鮮摘果園芭樂汁 2 瓶、蜜蜂工坊茉香沁綠 1 瓶、立頓水果冰茶 1 瓶、園之味葡萄汁 1 瓶、園之味柳橙汁 1 瓶。</p>
+                    <p>暫時不管 2 個藍色袋子與錫箔泡棉袋，以上就是所有的線索，功課就是找出寶藏。</p>
+                    <p>可樂果對應芭樂汁，得到「樂」；可樂果對應水果冰茶，得出「果」；決明紅茶對應水果冰茶，取出「茶」；芭樂汁、葡萄汁、柳橙汁，好像有一個共通點「汁」。</p>
+                    <p>樂。果。茶。汁。</p>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next11"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next12"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="imgbx"><img src="assets/images/pics/jc07.jpg"></div>
+                <div class="msg">
+                    <!-- Title 8 -->
+                    <h2><span>08 </span>&nbsp; 生日快樂</h2>
+                    <p>他回復著附上親手批註的照片。</p>
+                    <div class="pics">
+                        <img src="assets/images/pics/c01.jpg">
+                        <img src="assets/images/pics/c02.jpg">
+                    </div>
+                    <div class="chuan">
+                        <span>老朋友祝你生日快樂</span>    
+                    </div>
+                    <div class="egg">
+                        <span>快過期了</span>
+                    </div>
+                    <div class="chuan">
+                        <span>哪是快過期了</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>16才到貨的</span>    
+                    </div> 
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next15"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <button type="button" class="next16"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="imgbx"><img src="assets/images/pics/jc09.jpg"></div>
+                <div class="msg">
+                    <!-- Title 10 -->
+                    <h2><span>10 </span>&nbsp; 絕無僅有</h2>
+                    <div class="chuan">
+                        <span>全部啊</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>有印你生日的專屬飲料</span>    
+                    </div>
+                    <div class="egg">
+                        <span>超商冰櫃都是耶</span>
+                    </div>
+                    <div class="chuan">
+                        <span>沒，你以為那麼好找哦</span>    
+                    </div>
+                    <div class="egg">
+                        <span>真辛苦你了</span>    
+                    </div>
+                    <div class="chuan">
+                        <span>幾百瓶才有</span>    
+                    </div>
+                    <p>不管如何，我就是信了，那種無條件地相信。因為只有老朋友才會做這種事。嗯！<b>傻事</b>。</p>
+                    <p>謝謝 jasin & chuan 所做的傻事，謝謝所有會做傻事的朋友。</p>
+                    <div class="sign">egggggggg...</div>
+                    <div class="btn">
+                        <div>
+                            <button type="button" class="next19"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                        </div>    
+                        <div>
+                            <!-- <button type="button" class="next20"><i class="fa fa-chevron-right" aria-hidden="true"></i></button> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w50 right">
+                <div class="imgbx"><img src="assets/images/pics/jc10.jpg"></div>
+                    <div class="msg">
+                        <!-- Title 9 -->
+                        <h2><span>09 </span>&nbsp; 一天要喝 8 罐飲料</h2>
+                        <div class="egg">
+                            <span>謝謝你們的祝福</span>
+                        </div>
+                        <div class="chuan">
+                            <span>祝福你，生日快樂</span>    
+                        </div>
+                        <div class="egg">
+                            <span>8罐飲料也要4、5公斤</span>
+                        </div>
+                        <div class="egg">
+                            <span>讓家興鍊手臂膩</span>
+                        </div>
+                        <div class="chuan">
+                            <span>扛祝福給好朋友，他很開心</span>    
+                        </div>
+                        <div class="egg">
+                            <span>7/30一天灌下8罐飲料會不會太多？</span>
+                        </div>
+                        <div class="chuan">
+                            <span>你可以跟你的看護一起享用</span>    
+                        </div>
+                        <div class="chuan">
+                            <span>也可以一天一罐</span>    
+                        </div>
+                        <div class="chuan">
+                            <span>喝你的專屬飲料</span>    
+                        </div>
+                        <div class="btn">
+                            <div>
+                                <button type="button" class="next17"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                            </div>    
+                            <div>
+                                <button type="button" class="next18"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="imgbx"><img src="assets/images/pics/jc08.jpg"></div>
+                    <div class="msg">
+                        <!-- Title 7 -->
+                        <h2><span>07 </span>&nbsp; 樂觀指出</h2>
+                        <p>用樂、果、茶、汁四個字的注音聲母，可以變出：樂觀指出、樂觀成長、錄製過程、連綴貫串、離職成功、連戰出國、列出故障、鼓勵支持、鼓勵成長、公正立場、該站出來、公正處理、該處理中、觀察治療、這個立場、中國出來、治療過程、支持率高、超過兩週、除了關注、處理機制、除了各種、除了中國、吃齋管理、吃齋樂觀。</p>
+                        <p>啃！到底要樂觀指出什麼啊？連戰出國嗎？關我甚麼事！</p>
+                        <p>事情應該不是我想的那樣。好，從頭來過吧。果汁、茶、可樂果，8 瓶共 4200 ml、1 包重 24 公克。左思右想良久，我決定暫時先這樣了。</p>
+                        <p>隔天，我問 chuan：「老朋友給我 1 包可樂果 + 8 包果茶，何意？」貼上一張飲料的照片。</p> 
+                        <div class="btn">
+                            <div>
+                                <button type="button" class="next13"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                            </div>    
+                            <div>
+                                <button type="button" class="next14"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="imgbx"><img src="assets/images/pics/jc06.jpg"></div>
+                    <div class="msg">
+                        <!-- Title 5 -->
+                        <h2><span>05 </span>&nbsp; 賣什麼藥</h2>
+                        <p>既然是吃的，我想可能是食材或補藥之類。</p>
+                        <p>薑母鴨、羊肉爐、藥燉排骨、十全大補湯？又不是冬天，大熱天吃這麼補，會流鼻血吧！不會是四物湯吧？我姨媽還沒來。</p>
+                        <p>怎麼就像家裡那個娘，雞、鴨、牛、羊熟食拼命要我回家背來。</p>
+                        <p>就在我猜不透其中是何物時，我針對明確的物品發問。「裡面是什麼東西？怎麼還有一包可樂果？」</p>
+                        <p>「你回家可以試著尋寶，看看找出什麼來！」</p>
+                        <p>我與他在木柵線上往動物園方向的月台上聊了幾句，然後我跳上往動物園方向的車廂。他目送我離開後，應該搭手扶梯到地下的板南線往土城方向回家。</p>
+                        <p>我背著重物，終於安然回到家。</p>
+                        <div class="btn">
+                            <div>
+                                <button type="button" class="next9"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                            </div>    
+                            <div>
+                                <button type="button" class="next10"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="imgbx"><img src="assets/images/pics/jc04.jpg"></div>
+                    <div class="msg">
+                        <!-- Title 3 -->
+                        <h2><span>03 </span>&nbsp; 一變再變</h2>
+                        <p>為了搞清楚他的目地，我按了LINE畫面上的話筒鍵過去，一個動作按下去，我立刻後悔，隨即按了取消，因為疫情期間在捷運上講話是不妥的。</p>
+                        <p>我掛了電話，換他來電。我還是接了起來。</p>
+                        <p>他無意要跟我一起吃飯，因為娟會幫他準備湯。</p>
+                        <p>疫情當前他不打算跟我吃飯，既要坐到六張犁，還得徒步到我家，索性讓他別繞太多路了，直接約他淡水線與木柵線的交會點──大安站面交。</p>
+                        <p>講電話的過程他在公司，我隨著捷運已快到大安站了。當我到達大安站，決定先一步到忠孝復興站等他，這樣他就不用再坐回頭車去換藍線了。</p>
+                        <p>一波三折，面交地點由六張犁換成大安在變為忠孝復興。</p>
+                        <div class="btn">
+                            <div>
+                                <button type="button" class="next5"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+                            </div>    
+                            <div>
+                                <button type="button" class="next6"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="imgbx"><img src="assets/images/pics/jc02.jpg"></div>
+                    <div class="msg">
+                        <!-- Title 1 -->
+                        <h2><span>01 </span>&nbsp; 老朋友</h2>
+                        <p>7/19 一早的會議中，我本不是出席委員，只是我的在場讓那些老傢伙們比較安心地使用視訊方式開會。</p>
+                        <p>這根本不是我的會議，所以我光明正大的滑著手機。突然有一條訊息跳出來，恰巧被我無意的手指點開，畫面轉到 LINE 的聊天訊息。</p>
+                        <p>「Hi, 有東西給你，這週那天晚上方便，我下班過去六張犁找你。」</p>
+                        <p>我瞄一下訊息來源，是 jasin。心想，他和 chuan 可能又在慎重其事地張羅我的生日了。但若是生日禮物，詭異的是距我的生日還有二個星期，況且現在又是疫情期間，直接找上我來人與人的結連似乎有點不妥。</p>
+                        <p>雖然不知道他們賣什麼藥，我還是回了「都可以」。</p>                            
+                        <div class="btn">
+                            <div>
+                                <!-- <button type="button" class="next1"><i class="fa fa-chevron-left" aria-hidden="true"></i></button> -->
+                            </div>    
+                            <div>
+                                <button type="button" class="next2"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>                        
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 
 
 
@@ -441,38 +690,47 @@
         const x='500px';
         $(".next2").click(function(){
             $(".left").animate({top: '-500px'});
+            $(".colM").animate({top: '-500px'});
             $(".right").animate({top: '-4000px'});
         });
         $(".next4").click(function(){
             $(".left").animate({top: '-1000px'});
+            $(".colM").animate({top: '-1000px'});
             $(".right").animate({top: '-3500px'});
         });
         $(".next6").click(function(){
             $(".left").animate({top: '-1500px'});
+            $(".colM").animate({top: '-1500px'});
             $(".right").animate({top: '-3000px'});
         });
         $(".next8").click(function(){
             $(".left").animate({top: '-2000px'});
+            $(".colM").animate({top: '-2000px'});
             $(".right").animate({top: '-2500px'});
         });
         $(".next10").click(function(){
             $(".left").animate({top: '-2500px'});
+            $(".colM").animate({top: '-2500px'});
             $(".right").animate({top: '-2000px'});
         });
         $(".next12").click(function(){
             $(".left").animate({top: '-3000px'});
+            $(".colM").animate({top: '-3000px'});
             $(".right").animate({top: '-1500px'});
         });
         $(".next14").click(function(){
             $(".left").animate({top: '-3500px'});
+            $(".colM").animate({top: '-3500px'});
             $(".right").animate({top: '-1000px'});
         });
         $(".next16").click(function(){
             $(".left").animate({top: '-4000px'});
+            $(".colM").animate({top: '-4000px'});
             $(".right").animate({top: '-500px'});
         });
         $(".next18").click(function(){
             $(".left").animate({top: '-4500px'});
+            $(".colM").animate({top: '-4500px'});
             $(".right").animate({top: '0px'});
         });
 
@@ -482,45 +740,49 @@
         // });
         $(".next3").click(function(){
             $(".left").animate({top: '0px'});
-            $(".right").animate({top: '-4500px'});
+            $(".colM").animate({top: '0'});
+            $(".right").animate({top: '-4500px'});            
         });
         $(".next5").click(function(){
             $(".left").animate({top: '-500px'});
             $(".right").animate({top: '-4000px'});
+            $(".colM").animate({top: '-500px'});
         });
         $(".next7").click(function(){
             $(".left").animate({top: '-1000px'});
             $(".right").animate({top: '-3500px'});
+            $(".colM").animate({top: '-1000px'});
         });
         $(".next9").click(function(){
             $(".left").animate({top: '-1500px'});
             $(".right").animate({top: '-3000px'});
+            $(".colM").animate({top: '-1500px'});
         });
         $(".next11").click(function(){
             $(".left").animate({top: '-2000px'});
             $(".right").animate({top: '-2500px'});
+            $(".colM").animate({top: '-2000px'});
         });
         $(".next13").click(function(){
             $(".left").animate({top: '-2500px'});
             $(".right").animate({top: '-2000px'});
+            $(".colM").animate({top: '-2500px'});
         });
         $(".next15").click(function(){
             $(".left").animate({top: '-3000px'});
             $(".right").animate({top: '-1500px'});
+            $(".colM").animate({top: '-3000px'});
         });
         $(".next17").click(function(){
             $(".left").animate({top: '-3500px'});
             $(".right").animate({top: '-1000px'});
+            $(".colM").animate({top: '-3500px'});
         });
         $(".next19").click(function(){
             $(".left").animate({top: '-4000px'});
             $(".right").animate({top: '-500px'});
-        });
-      
-        
-
-
-      
+            $(".colM").animate({top: '-4000px'});
+        });      
     });
     </script> 
 
