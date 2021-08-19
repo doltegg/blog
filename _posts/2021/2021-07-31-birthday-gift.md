@@ -9,3 +9,4 @@ mathjax_autoNumber: false
 ---
 
 <img src="/blog/assets/images/2021/gift.jpg" style="width:700px;">
+<img src="/blog/assets/images/2021/gift01.jpg" style="width:700px;">
