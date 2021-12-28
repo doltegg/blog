@@ -8,7 +8,9 @@ type: works
 
 - <a target="_blank" href="https://doltegg.github.io/text/">排一手好蛋</a>：工作上大家常犯的排版錯誤。
 - <a target="_blank" href="https://doltegg.github.io/book/">egg's Books</a>：記錄書上的錦言佳句。
+<!--
 - <a target="_blank" href="https://doltegg.github.io/cathax/">Cathax's Reports</a>：專門罵 Cathax 這間公司。
+--> 
 
 #### 專題
 
@@ -36,6 +38,8 @@ type: works
 - <a target="_blank" href="article/excel_arr.pdf">陣列運算</a>
 - <a target="_blank" href="article/excel_vba.pdf">VBA 運算</a>
 
+
+<!--
 #### 意有所指
 
 - <a target="_blank" href="article/robo.pdf">意義 (智能投資)</a>
@@ -64,5 +68,5 @@ type: works
 - <a target="_blank" href="article/whistle.pdf">房貸利率加碼數</a>
 - <a target="_blank" href="article/indexR.pdf">房貸利率指標利率</a>
 - <a target="_blank" href="article/a.pdf">獨立董事信箱回覆</a>
-
+-->
 <!--Building...-->
