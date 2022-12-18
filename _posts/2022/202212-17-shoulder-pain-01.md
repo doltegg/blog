@@ -3,7 +3,7 @@ layout: post
 title: 何苦來哉
 date: 2022-12-17
 category: 誌
-tags: [egg]
+tags: [egg, 看病]
 mathjax: true
 mathjax_autoNumber: false
 ---
