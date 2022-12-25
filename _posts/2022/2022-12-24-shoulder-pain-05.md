@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2022/shoulderpain.jpg" style="width:400px"/>
+<img src="/blog/assets/images/2022/shoulderpain.jpg" style="width:500px"/>
 
 <!--more-->
 
