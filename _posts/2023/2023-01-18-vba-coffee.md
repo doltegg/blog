@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2023/vbacoffee.jpg" style="width:600px"/>
+<img src="/blog/assets/images/2023/vbacoffee.jpg" style="width:200px"/>
 
 <!--more-->
 
