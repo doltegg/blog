@@ -9,3 +9,5 @@ mathjax_autoNumber: false
 ---
 
 <img src="/blog/assets/images/2023/lathe.jpg" style="width:600px"/>
+
+<!
