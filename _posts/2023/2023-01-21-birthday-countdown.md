@@ -8,8 +8,9 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-今天是除夕。<
-<img src="/blog/assets/images/2023/countdown.jpg" style="width:450px"/>
+今天是除夕。<br>
+
+<img src="/blog/assets/images/2023/countdown.jpg" style="width:550px"/>
 
 <!--more-->
 
