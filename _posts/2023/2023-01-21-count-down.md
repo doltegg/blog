@@ -107,7 +107,7 @@ mathjax_autoNumber: false
         font-size: 0.5em;
         font-weight: 300;
     }
-  <
+  </style>
     
     <div id="time">
         <div class="circle" style="--clr:#ffffff;">
