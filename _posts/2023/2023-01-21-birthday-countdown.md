@@ -3,7 +3,7 @@ layout: post
 title: 倒數計時
 date: 2023-01-21
 category: 誌
-tags: [egg, 看護]
+tags: [egg, 看護, JavaScript]
 mathjax: true
 mathjax_autoNumber: false
 ---
