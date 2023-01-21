@@ -8,8 +8,8 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2023/countdown.jpg" style="width:300px"/>
+<img src="/blog/assets/images/2023/countdown.jpg" style="width:450px"/>
 
 <!--more-->
 
-[Go!]((https://doltegg.github.io/library/birthday2023.html)
+[Go!](https://doltegg.github.io/library/birthday2023.html)
