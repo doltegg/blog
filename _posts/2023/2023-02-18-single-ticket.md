@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 白嫖
+title: 單程票
 date: 2023-01-07
 category: 誌
 tags: [egg, 五四三]
@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-
+<img src="/blog/assets/images/2023/singleticket.jpg" style="width:600px"/>
 P.S. 照片是我從深藍色博愛座撿起車票，放在旁邊淺藍色一般座位照的。
 <!--more-->
 
