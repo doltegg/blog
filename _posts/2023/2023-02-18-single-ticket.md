@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2023/singleticket.jpg" style="width:600px"/>
+<img src="/blog/assets/images/2023/singleticket.jpg" style="width:400px"/>
 P.S. 照片是我從深藍色博愛座撿起車票，放在旁邊淺藍色一般座位照的。
 
 <!--more-->
