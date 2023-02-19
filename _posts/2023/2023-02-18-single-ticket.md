@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 單程票
-date: 2023-01-07
+date: 2023-02-18
 category: 誌
 tags: [egg, 五四三]
 mathjax: true
