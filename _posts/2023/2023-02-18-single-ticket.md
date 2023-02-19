@@ -3,7 +3,7 @@ layout: post
 title: 單程票
 date: 2023-02-18
 category: 誌
-tags: [egg, 五四三]
+tags: [egg, ChatGPT]
 mathjax: true
 mathjax_autoNumber: false
 ---
