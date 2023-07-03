@@ -12,4 +12,4 @@ mathjax_autoNumber: false
 
 <!--more-->
 
-<img src="/blog/assets/images/2022/birthday2022.jpg" style="width:350px;">
+
