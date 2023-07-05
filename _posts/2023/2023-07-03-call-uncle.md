@@ -3,7 +3,7 @@ layout: post
 title: 叫叔叔
 date: 2023-07-03
 category: 誌
-tags: [egg, 同學]
+tags: [egg, 同學, 旅遊]
 mathjax: true
 mathjax_autoNumber: false
 ---
