@@ -7,7 +7,6 @@ tags: [egg, 同學]
 mathjax: true
 mathjax_autoNumber: false
 ---
-123
 
 2022/7/30 來自高中同學的祝福！
 
