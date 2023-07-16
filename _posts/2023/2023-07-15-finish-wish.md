@@ -2,7 +2,7 @@
 layout: post
 title: 了卻心願
 date: 2023-07-15
-category: 誌
+category: 謅
 tags: [egg, 同學, 旅遊]
 mathjax: true
 mathjax_autoNumber: false
