@@ -17,5 +17,7 @@ mathjax_autoNumber: false
 一張卡片，他們有意或無意的，獨留了... 左上角的一片空幅，我只好把圖給 P 上！
 
 謝謝同學的心意，卡片及禮物。
+
+<img src="/blog/assets/images/2023/chanel.jpg" style="width:650px"/>
  
 > 如果有人生可以重來的按鈕，我不會按下去，因為和你們相遇了。
