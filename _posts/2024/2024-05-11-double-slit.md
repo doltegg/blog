@@ -3,7 +3,7 @@ layout: post
 title: 月亮一直都在那嗎？
 date: 2024-05-11
 category: 誌
-tags: [egg, 戲劇]
+tags: [egg, 同學, 戲劇]
 mathjax: true
 mathjax_autoNumber: false
 ---
