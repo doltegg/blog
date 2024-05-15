@@ -3,14 +3,14 @@ layout: post
 title: 公車拉環
 date: 2024-05-14
 category: 誌
-tags: [egg, 行]
+tags: [egg, 行, 腦袋瓜]
 mathjax: true
 mathjax_autoNumber: false
 ---
 
 「我的左手握拳太緊時，手肘及上臂隱隱作痛！」我伸出左手，向醫生展示握拳狀，附贈一個皺眉表情。
 
-<!--more->
+<!--more-->
 
 「發生什麼事？」
 
