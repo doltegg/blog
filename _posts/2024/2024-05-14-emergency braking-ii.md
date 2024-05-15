@@ -2,7 +2,7 @@
 layout: post
 title: 公車拉環
 date: 2024-05-14
-category: 誌
+category: 謅
 tags: [egg, 行, 腦袋瓜]
 mathjax: true
 mathjax_autoNumber: false
