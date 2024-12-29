@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2024/sauid2.jpg" style="width: 650px;"/>
+<img src="/blog/assets/images/2024/squid2.jpg" style="width: 650px;"/>
 
 <!--more-->
 
