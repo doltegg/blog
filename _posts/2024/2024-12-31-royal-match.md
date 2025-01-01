@@ -13,4 +13,4 @@ mathjax_autoNumber: false
 
 <!--more-->
 
-2024 年的最後一天，我的 Royal Match 遊戲跨過了壹萬關！
+2024 年的最後一天，我的 Royal Match 遊戲跨過了第壹萬關！
