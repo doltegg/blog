@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初衷
+title: 魷魚遊戲 2
 date: 2024-12-29
 category: 評
 tags: [egg, 劇]
