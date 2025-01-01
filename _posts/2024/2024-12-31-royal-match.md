@@ -8,8 +8,8 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2024/9999.png" style="width: 300px;"/>&nbsp;
-<img src="/blog/assets/images/2024/10000.png" style="width: 300px;"/>
+<img src="/blog/assets/images/2024/p9999.jpg" style="width: 300px;"/>&nbsp;
+<img src="/blog/assets/images/2024/p10000.jpg" style="width: 300px;"/>
 
 <!--more-->
 
