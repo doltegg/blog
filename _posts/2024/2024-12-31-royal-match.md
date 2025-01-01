@@ -7,9 +7,10 @@ tags: [五四三]
 mathjax: true
 mathjax_autoNumber: false
 ---
-
+<div style="display: flex;">
 <img src="/blog/assets/images/2024/p9999.jpg" style="display: inlie-block; width: 200px;"/>&nbsp;
 <img src="/blog/assets/images/2024/p10000.jpg" style="display: inlie-block; width: 200px;"/>
+</div>
 
 <!--more-->
 
