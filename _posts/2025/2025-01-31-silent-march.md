@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="/blog/assets/images/2025/silentMarch.jpg" style="display: inlie-block; width: 200px;"/>
+<img src="/blog/assets/images/2025/silentMarch.jpg" style="display: inlie-block; width: 450px;"/>
 
 大年初三，看了一場東野圭吾的「伽利略系列」電影──沉默的遊行。
 
