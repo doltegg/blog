@@ -2,8 +2,8 @@
 layout: post
 title: 風吹雞蛋殼
 date: 2025-06-15
-category: 說
-tags: [egg]
+category: 誌
+tags: [訴訟, egg]
 mathjax: true
 mathjax_autoNumber: false
 ---
