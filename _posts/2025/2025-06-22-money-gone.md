@@ -8,11 +8,14 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
+<img src="/blog/assets/images/2025/mainText.jpg" style="width: 400px;"/>
+
+<!--more-->
+
 判決主文：<br>
 > 一、被告應給付原告新臺幣壹佰參拾玖萬伍仟元，及自民國一百一十二年十月二十一日起至清償日止，按週年利率百分之五計算之利息。<br>
 > 二、原告其餘之訴駁回。<br>
 > 三、訴訟費用由被告負擔百分之八十七，餘由原告負擔。
-<!--more-->
 
 我尚未收到判決書，但根據目前的判決主文中的幾個細節來討論一下。
 
