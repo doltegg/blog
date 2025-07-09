@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一世聰明
+title: 聰明一世
 date: 2025-06-24
 category: 誌
 tags: [訴訟]
