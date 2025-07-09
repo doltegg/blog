@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 聰明一世
+title: 餵米、偷雞
 date: 2025-06-24
 category: 誌
 tags: [訴訟]
