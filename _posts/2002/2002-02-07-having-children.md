@@ -47,6 +47,7 @@ Dear every my friends, P, B, A, J, D,
 
 egggggggggggggggggggggggggggggg.
 
-
+<div style="colo: #555">
 [^1]: 你們的回信我都有看，而且都有笑 1 次以上。
+</div>
 
