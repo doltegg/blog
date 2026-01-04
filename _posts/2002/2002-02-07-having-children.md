@@ -47,3 +47,6 @@ Dear every my friends, P, B, A, J, D,
 
 egggggggggggggggggggggggggggggg.
 
+
+[^1]：你們的回信我都有看，而且都有笑1 次以上。
+
