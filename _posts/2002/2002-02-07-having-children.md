@@ -57,6 +57,6 @@ egggggggggggggggggggggggggggggg.
 	}
 </style>
 
-[^1]: 你們的回信我都有看，而且都有笑 1 次以上。
+[^1]:  你們的回信我都有看，而且都有笑 1 次以上。
 
 
