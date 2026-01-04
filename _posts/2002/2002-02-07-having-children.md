@@ -47,7 +47,7 @@ Dear every my friends, P, B, A, J, D,
 
 egggggggggggggggggggggggggggggg.
 
-<style> .footnotes { color: #aaa; font-size: small; line-height: .9; } .footnotes p { margin: 0.1em 0; } </style>
+<style> .footnotes { color: #999; font-size: small; line-height: 1.4; } .footnotes p { margin: 0.3em 0; } </style>
 
 [^1]:  你們的回信我都有看，而且都有笑 1 次以上。
 
