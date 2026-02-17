@@ -3,7 +3,7 @@ layout: post
 title: 排骨照舊
 date: 2026-02-17
 category: 說
-tags: [egg, 故事]
+tags: [egg, 投稿]
 mathjax: true
 mathjax_autoNumber: false
 ---
