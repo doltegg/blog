@@ -2,8 +2,8 @@
 layout: post
 title: 一場不設理賠金的金融行為
 date: 2026-04-13
-category: 說
-tags: [egg, 保險]
+category: 評
+tags: [egg, 保險, 金融商品]
 mathjax: true
 mathjax_autoNumber: false
 ---
