@@ -3,7 +3,7 @@ layout: post
 title: 文人自居
 date: 2026-04-24
 category: 誌
-tags: [egg, 投稿]
+tags: [egg, 投稿, 偽看護]
 mathjax: true
 mathjax_autoNumber: false
 ---
