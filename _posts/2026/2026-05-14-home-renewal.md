@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 家，值得一次重生的機會
+title: 給鄰居的一封信：家，值得一次重生的機會
 date: 2026-05-14
 category: 評
 tags: [都更]
