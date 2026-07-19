@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 大姊及二姊續集
-date: 2026-07-18 23:30:00 +0800
+date: 2026-07-18
 category: 謅
 tags: [同事]
 mathjax: true
@@ -60,6 +60,6 @@ mathjax_autoNumber: false
 
 「行！二姊，卡給妳，妳養我！」
 
-
+<br><br>
 
 [這裡是上集](https://doltegg.github.io/blog/2019/02/28/sisters/)。
