@@ -60,6 +60,5 @@ mathjax_autoNumber: false
 
 「行！二姊，卡給妳，妳養我！」
 
-<br><br>
-
+<br>
 [這裡是上集](https://doltegg.github.io/blog/2019/02/28/sisters/)。
