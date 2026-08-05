@@ -3,7 +3,7 @@ layout: post
 title: 提早登出
 date: 2026-07-31
 category: 謅
-tags: [一本正經胡說八道]
+tags: [一本正經胡說八道, 物理學]
 mathjax: true
 mathjax_autoNumber: false
 ---
