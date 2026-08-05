@@ -3,7 +3,7 @@ layout: post
 title: 作繭自縛
 date: 2026-08-01
 category: 謅
-tags: [一本正經胡說八道]
+tags: [一本正經胡說八道, 數]
 mathjax: true
 mathjax_autoNumber: false
 ---
