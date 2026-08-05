@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 玄虛上師數命錄 0 ──空亡命格
-date: 2026-08-05
+date: 2026-08-06
 category: 謅
 tags: [數, 玄虛上師]
 mathjax: true
