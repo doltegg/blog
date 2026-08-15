@@ -3,7 +3,7 @@ layout: post
 title: 音符的重力
 date: 2026-08-14
 category: 謅
-tags: [同學, 一本正經胡說八道]
+tags: [物理學, 物理老師, 漂亮的音樂老師, 一本正經胡說八道]
 mathjax: true
 mathjax_autoNumber: true
 ---
