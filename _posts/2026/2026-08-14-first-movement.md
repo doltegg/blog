@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音符的重力
+title: 第一樂章：音符的重力
 date: 2026-08-14
 category: 謅
 tags: [物理學, 物理老師, 漂亮的音樂老師, 一本正經胡說八道]
