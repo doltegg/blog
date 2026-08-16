@@ -3,7 +3,7 @@ layout: post
 title: 揹鍋
 date: 2026-08-16
 category: 說
-tags: [同事, 職場, 一本正經胡說八道]
+tags: [同事, 職場, 數, 一本正經胡說八道]
 mathjax: true
 mathjax_autoNumber: true
 ---
