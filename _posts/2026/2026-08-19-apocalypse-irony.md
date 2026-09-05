@@ -56,4 +56,4 @@ mathjax_autoNumber: true
 
 因為那是我第二次經過產道，上次我早已不復記得了，而這次，我是帶著管爺的記憶出生。
 
-![Alt text](/path/to/kuan.jpg)
+<img src="/blog/assets/images/2026/kuan.jpg" style="width: 600px;"/>
