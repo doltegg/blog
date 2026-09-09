@@ -3,7 +3,7 @@ layout: post
 title: 如果她是 Peggy，而他只能是 egg
 date: 2026-09-07
 category: 謅
-tags: [ 一本正經胡說八道]
+tags: [ 一本正經胡說八道, egg]
 mathjax: true
 mathjax_autoNumber: true
 ---
