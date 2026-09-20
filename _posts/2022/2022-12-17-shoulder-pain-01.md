@@ -65,7 +65,7 @@ mathjax_autoNumber: false
 年紀有了，零件一個一個開始異常，希望大家都健康！若不幸微恙，也請免於苦痛！
 
 <br><br>
-##### 肩痛筆記
+#### 肩痛筆記全文
 1. [何苦來哉](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
 2. [肩痛筆記](https://doltegg.github.io/blog/2022/12/18/shoulder-pain-02/)。
 3. [浴血更衣](https://doltegg.github.io/blog/2022/12/19/shoulder-pain-03/)。
