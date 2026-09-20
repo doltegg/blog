@@ -78,3 +78,10 @@ mathjax_autoNumber: true
 
 幾十年後，我終於得到了解答。當然，我後來才知道，那不是答案。那只是她先生，替她編的一套我聽得懂的鬼話。奇怪的是，我竟然覺得這樣很好。
 
+<br><br>
+#### 樂章
+1. [第一樂章：音符的重力](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [第二樂章：漏洞與法則](https://doltegg.github.io/blog/2026/08/15/second-movement/)。
+3. [第三樂章：神仙打架](https://doltegg.github.io/blog/2026/08/15/third-movement/)。
+4. [反向樂章](https://doltegg.github.io/blog/2026/08/22/reverse-movement/)。
+
