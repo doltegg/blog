@@ -80,3 +80,16 @@ mathjax_autoNumber: false
 
 回家路上，我說服自己，她的行為是為了讓我還能有藉口可以回請她，為以後製造機會。對，我好像只能如此安慰自己 。回家後，我實在想不通這一切，終於忍不住，上了 LINE 去跟她理論一下。沒想到，LINE 竟已遭她封鎖。
 原來，那貳千元大鈔是為了逃命的買路財！
+
+
+<br><br>
+#### 當鋪女全文
+- [【序章】當鋪女](https://doltegg.github.io/blog/2024/11/16/blind-date/)。
+- [【首部曲】兩千元的逃逸速度](https://doltegg.github.io/blog/2026/01/08/blind-date-02/)。
+- [【二部曲】不用找了](https://doltegg.github.io/blog/2026/01/09/blind-date-03/)。
+- [【三部曲】無罪推定](https://doltegg.github.io/blog/2026/01/11/blind-date-04/)。
+- [【四部曲】溢位與易位](https://doltegg.github.io/blog/2026/01/14/blind-date-05/)。
+- [【五部曲】把帳重新打開](https://doltegg.github.io/blog/2026/09/14/blind-date-06/)。
+- [【六部曲】估價誤差](https://doltegg.github.io/blog/2026/09/14/blind-date-07/)。
+- [【七部曲】折現率](https://doltegg.github.io/blog/2026/09/15/blind-date-08/)。
+- [【八部曲】不找了](https://doltegg.github.io/blog/2026/09/16/blind-date-09/)。
