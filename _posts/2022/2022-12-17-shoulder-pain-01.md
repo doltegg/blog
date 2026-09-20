@@ -63,3 +63,11 @@ mathjax_autoNumber: false
 我的痛在12月15日中午看完診、吃藥後的隔天早上開始緩解，左手活動還不自如，但是起碼穿衣不用問娘告奶了。
 
 年紀有了，零件一個一個開始異常，希望大家都健康！若不幸微恙，也請免於苦痛！
+
+<br><br>
+##### 肩痛筆記
+1. [何苦來哉](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [肩痛筆記](https://doltegg.github.io/blog/2022/12/18/shoulder-pain-02/)。
+3. [浴血更衣](https://doltegg.github.io/blog/2022/12/19/shoulder-pain-03/)。
+4. [診斷](https://doltegg.github.io/blog/2022/12/20/shoulder-pain-04/)。
+5. [我體內的鈣多到可以沉積在肌腱上](https://doltegg.github.io/blog/2022/12/24/shoulder-pain-05/)。
