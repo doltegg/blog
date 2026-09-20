@@ -71,3 +71,10 @@ mathjax_autoNumber: true
 一旁的音樂老師看著我們兩個理科怪人，從「相位角」一路吵到「記憶體溢位」，最後居然還惺惺相惜地開始在紙上推導算式。
 
 她無奈地揉了揉太陽穴，嘆了一口氣：「兩個腦袋有洞的人，簡直是絕配。」端起花茶，坐到隔壁桌去。
+
+<br><br>
+#### 樂章
+1. [第一樂章：音符的重力](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [第二樂章：漏洞與法則](https://doltegg.github.io/blog/2026/08/15/second-movement/)。
+3. [第三樂章：神仙打架](https://doltegg.github.io/blog/2026/08/15/third-movement/)。
+4. [反向樂章](https://doltegg.github.io/blog/2026/08/22/reverse-movement/)。
