@@ -86,3 +86,10 @@ mathjax_autoNumber: true
 我看著他。忽然覺得有些荒謬。
 
 他那兩個「噓」字，比趙建銘出關時手比「噓」的手勢更令人難堪！
+
+<br><br>
+#### 樂章
+1. [第一樂章：音符的重力](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [第二樂章：漏洞與法則](https://doltegg.github.io/blog/2026/08/15/second-movement/)。
+3. [第三樂章：神仙打架](https://doltegg.github.io/blog/2026/08/15/third-movement/)。
+4. [反向樂章](https://doltegg.github.io/blog/2026/08/22/reverse-movement/)。
