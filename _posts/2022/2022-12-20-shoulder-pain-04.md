@@ -51,3 +51,11 @@ mathjax_autoNumber: false
 從一開始被復健科退掛後，本以為，在不久的將來，要接受一台手術，不要大開大合的手術，而是要一台微創手術，之後還有至少半年的復健。但在聽完第二位醫生尚未診斷出結果的診斷後，我似乎得到一個啟示。總覺得他雖沒明說，我卻感覺他壓根沒將「旋轉肌肌腱斷裂」這病因放在選項內，看來先前的心理建設是白搭的了。
 
 等等！後頭還有第三位醫生等著我呢？是山重水複？還是柳暗花明？
+
+<br><br>
+#### 肩痛筆記全文
+1. [何苦來哉](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [肩痛筆記](https://doltegg.github.io/blog/2022/12/18/shoulder-pain-02/)。
+3. [浴血更衣](https://doltegg.github.io/blog/2022/12/19/shoulder-pain-03/)。
+4. [診斷](https://doltegg.github.io/blog/2022/12/20/shoulder-pain-04/)。
+5. [我體內的鈣多到可以沉積在肌腱上](https://doltegg.github.io/blog/2022/12/24/shoulder-pain-05/)。
