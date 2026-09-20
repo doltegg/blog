@@ -83,3 +83,10 @@ mathjax_autoNumber: true
 世界或許不需要每一個變數都精確歸位。
 
 雖然我依然堅持「第一小節必須補上休止符」，但偶爾聽聽這群藝術家講講鬼故事……嗯，我也只能勉強接受了。
+
+<br><br>
+#### 樂章
+1. [第一樂章：音符的重力](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [第二樂章：漏洞與法則](https://doltegg.github.io/blog/2026/08/15/second-movement/)。
+3. [第三樂章：神仙打架](https://doltegg.github.io/blog/2026/08/15/third-movement/)。
+4. [反向樂章](https://doltegg.github.io/blog/2026/08/22/reverse-movement/)。
