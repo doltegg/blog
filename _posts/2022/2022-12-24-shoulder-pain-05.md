@@ -103,3 +103,11 @@ mathjax_autoNumber: false
 我等護士給我批價單及藥單時，在診間外瀏覽了一下報告，於是我的症狀有了正式的學名：「肩關節旋轉肌腱鈣化性肌腱炎。」
 
 醫生開了28天的藥給我。
+
+<br><br>
+#### 肩痛筆記全文
+1. [何苦來哉](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [肩痛筆記](https://doltegg.github.io/blog/2022/12/18/shoulder-pain-02/)。
+3. [浴血更衣](https://doltegg.github.io/blog/2022/12/19/shoulder-pain-03/)。
+4. [診斷](https://doltegg.github.io/blog/2022/12/20/shoulder-pain-04/)。
+5. [我體內的鈣多到可以沉積在肌腱上](https://doltegg.github.io/blog/2022/12/24/shoulder-pain-05/)。
