@@ -59,3 +59,11 @@ mathjax_autoNumber: false
 我坐下來後，醫生的右邊螢幕上出現X光片，看來是我剛才照的X光片，他來回跳轉二張片子，我也跟著看了看。最後他螢幕上停留在我躺著手舉起來的那張片子上，轉過頭來對著我。
 
 待續...
+
+<br><br>
+#### 肩痛筆記全文
+1. [何苦來哉](https://doltegg.github.io/blog/2022/12/17/shoulder-pain-01/)。
+2. [肩痛筆記](https://doltegg.github.io/blog/2022/12/18/shoulder-pain-02/)。
+3. [浴血更衣](https://doltegg.github.io/blog/2022/12/19/shoulder-pain-03/)。
+4. [診斷](https://doltegg.github.io/blog/2022/12/20/shoulder-pain-04/)。
+5. [我體內的鈣多到可以沉積在肌腱上](https://doltegg.github.io/blog/2022/12/24/shoulder-pain-05/)。
