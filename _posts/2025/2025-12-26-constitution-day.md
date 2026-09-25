@@ -54,4 +54,8 @@ mathjax_autoNumber: false
 
 見我沒有動作，她連眼睛都沒張開，語氣平靜得像宣布判決：「嘿 Siri，閉嘴！」
 
-聽畢，我立刻跳下床，乖乖繞過床，走到她那邊的床頭櫃，親手終結了那煩人的她的iPhone。
+聽畢，我立刻跳下床，乖乖繞過床，走到她那邊的床頭櫃，親手終結了那煩人的她的 iPhone。
+
+<br><br>
+- [久違的行憲紀念日](https://doltegg.github.io/blog/2025/12/26/constitution-day/)
+- [科技](https://doltegg.github.io/blog/2026/09/25/scienc-technology/)
