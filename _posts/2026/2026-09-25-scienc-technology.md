@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 科技
+title: 科技來自人性
 date: 2026-09-25
 category: 謅
 tags: [egg]
