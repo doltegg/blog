@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 盟友（戲弄續篇）
+title: 蜚蠊 (下)──盟友
 date: 2026-09-22
 category: 謅
 tags: [egg, 故事]
@@ -90,7 +90,7 @@ mathjax_autoNumber: false
 
 「好啊！」
 
-<img src="/blog/assets/images/2026/aa.jpg" style="width: 500px;"/>
+<img src="/blog/assets/images/2026/aa.jpg" style="width: 600px;"/>
 
 劇集播到第四集，我突然開始後悔自己的提議。螢幕上的男女持續推進戰線，而我體內某支不受大腦節制的器官，竟開始強勢武裝，蠢蠢欲動。
 
