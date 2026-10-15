@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一個生日，兩個祝福
+title: 指數返しだ (一個生日，兩個祝福)
 date: 2026-08-13
 category: 謅
 tags: [同學, 一本正經胡說八道]
